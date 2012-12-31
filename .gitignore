@@ -20,3 +20,4 @@ doc/
 # Ruby Motion
 build/
 .repl_history
+*.dat*
