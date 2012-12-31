@@ -1,0 +1,200 @@
+Vicodin	APAP + Hydrocodone	Pain Relief	3
+Prinivil	Lisinopril	ACE Inhibitor	
+Zocor	Simvastatin	Statin	
+Synthroid	Levothyroxine	Hormone Replacement	
+Amoxil	Amoxicillin	Antibiotic (Penicillin)	
+Zithromax	Azithromycin	Macrolide Antibiotic	
+Microzide	Hydrochlorothiazide (HCTZ)	Thiazide Diuretic	
+Norvasc	Amlodipine	Calcium Channel Blocker	
+Xanax	Alprazolam	Benzodiazepine	4
+Glucophage	Metformin	Antidiabetic	
+Lipitor	Atorvastatin	Statin	
+Prilosec	Omeprazole	Proton Pump Inhibitor	
+Augmentin	Amoxicillin + Clavulanate	Penicillin Antibiotic	
+Tenormin	Atenolol	Beta Blocker (B1)	
+Lasix	Furosemide	Diuretic	
+Lopressor	Metoprolol	Beta Receptor Blocker (B1)	
+Zoloft	Sertraline	S.S.R.I.	
+Ambien	Zolpidem	Sleep Aid	4
+Percocet	Oxycodone + APAP	Pain Relief	2
+Nexium	Esomeprazole	Proton Pump Inhibitor	
+Plavix	Clopidogrel	Platelet Aggregation Inhibitor	
+Singulair	Montelukast	Leukotriene Inhibitor	
+Sterapred	Prednisone	Corticosteroid	
+Lexapro	Escitalopram	S.S.R.I.	
+Advil	Ibuprofen	N.S.A.I.D.	
+Celexa	Citalopram	Anti-Depressant (S.S.R.I.)	
+ProAir	Albuterol	B2 Receptor Agonist (Lungs)	
+Prozac	Fluoxetine	S.S.R.I.	
+Neurontin	Gabapentin	Anti-Convulsant	
+Coumadin	Warfarin	Blood Thinner	
+Ultram	Tramadol	Pain Relief	
+Klonopin	Clonazepam	Benzodiazepine	4
+Ativan	Lorazepam	Benzodiazepine	4
+Keflex	Cephalexin	Antibiotic (Cephalosporin)	
+Flexeril	Cyclobenzaprine	Muscle Relaxant	
+Septra	Sulfamethoxazole + Trimethoprim 	Antibiotic Combination	
+Cipro	Ciprofloxacin	Quinolone Antibiotic	
+Flonase	Fluticasone	Inhaled Steroid	
+Dyrenium	Triamterene	Diuretic	
+Pravachol	Pravastatin	Cholesterol / Statin	
+Crestor	Rosuvastatin	Statin	
+Advair	Fluticasone + Salmeterol	Bronchodilator + Steroid	
+Desyrel	Trazodone	Anti-Depressant	
+Darvocet	Propoxyphene + APAP	Pain Relief	4
+Fosamax	Alendronate	Bone Resorption Inhibitor	
+Allegra	Fexofenadine	Antihistamine (H1)	
+Mevacor	Lovastatin	Cholesterol / Statin	
+Coreg	Carvedilol	Beta Receptor Blocker	
+Paxil	Paroxetine	S.S.R.I.	
+Mobic	Meloxicam	N.S.A.I.D.	
+Valium	Diazepam	Benzodiazepine	4
+Diovan	Valsartan	A2RB	
+Cymbalta	Duloxetine	Anti-Depressant	
+Effexor	Venlafaxine	Anti-Depressant	
+Zantac	Ranitidine	Histamine Blocker (H2)	
+Diflucan	Fluconazole	Anti-Fungal	
+Aleve	Naproxen	N.S.A.I.D.	
+Vibramycin	Doxycycline	Antibiotic (Tetracycline)	
+Klor-Con	Potassium Chloride	Electrolyte	
+Elavil	Amitriptyline	Anti-Depressant	
+Prevacid	Lansoprazole	Proton Pump Inhibitor	
+Actos	Pioglitazone	Anti-Diabetic	
+Medrol	Methylprednisolone	Steroid Anti-Inflammatory	
+Zyloprim	Allopurinol	Xanthine Oxidase Inhibitor	
+Tylenol 3	Codeine + APAP	Pain Relief	3
+Vasotec	Enalapril	ACE Inhibitor	
+Soma	Carisoprodol	Muscle Relaxant	4
+Flomax	Tamsulosin	Prostate Receptor Agonist	
+Vytorin	Ezetimibe + Simvastatin	Cholesterol Lowering	
+Seroquel	Quetiapine	Anti-psychotic	
+Levaquin	Levofloxacin	Antibiotic (Quinolone)	
+Tricor	Fenofibrate	Cholesterol	
+Catapres	Clonidine	Alpha Receptor Agonist	
+Phenergan	Promethazine	Anti-Nausea / Anti-emetic	
+Yaz	Ethinyl estradiol + Drospirenone	Birth Control	
+Viagra	Sildenafil	Erectile Dysfunction	
+Celebrex	Celecoxib	N.S.A.I.D.COX-2 Inhibitor	
+Proventil	Albuterol	Beta Agonist (B2) (Lungs)	
+Oxycontin	Oxycodone	Pain Relief	2
+Lantus	Insulin Glargine	Insulin	
+Nasonex	Mometasone	Corticosteroid	
+Lyrica	Pregabalin	Anti-convulsant / Neurologic	
+Amaryl	Glimepiride	Antidiabetic	
+Restoril	Temazepam	Sleep Aid	4
+Folvite	Folic Acid	Mineral Supp.	
+Premarin	Conjugated Estrogen	Estrogen Replacement	
+Zetia	Ezetimibe	Colesterol	
+Aldactone	Spironolactone	Diuretic	
+Lanoxin	Digoxin	Inotrope	
+Imdur	Isosorbide Mononitrate	Nitrate Vasodilator	
+Omnicef	Cefdinir	Anti-biotic (Cephalosporin)	
+Altace	Ramipril	ACE Inhibitor	
+Nasacort	Triamcinolone	Inhaled Steroid	
+Ventolin	Albuterol	Bronchodilator	
+Cozaar	Losartan	A2RB	
+Concerta	Methylphenidate	ADHD	2
+DiaBeta	Glyburide	Anti-Diabetic	
+Valtrex	Valacyclovir	Anti-Viral	
+Tamiflu	Oseltamivir	Anti-Viral (Flu)	
+Pen-VK	Penicillin vk	Antibiotic	
+Spiriva	Tiotropium	Anti-cholinergic 	
+Lotensin	Benazepril	ACE Inhibitor	
+Lamictal	Lamotrigine	Anti-convulsant	
+Benicar HCT	Olmesartan + HCTZ	A2RB + Diuretic	
+Aricept	Donepezil	Cholinesterase Inhibitor	
+Risperdal	Risperidone	Anti-Psychotic	
+Glucotrol	Glipizide	Anti-Diabetic	
+Adderall	Amphetamine + Dextroamphetamine	Stimulant(ADHD)	2
+Abilify	Aripiprazole	Anti-psychotic	
+Verelan	Verapamil	Calcium Channel Blocker	
+Cleocin	Clindamycin 	Anti-Microbial	
+Flagyl	Metronidazole	Anti-Microbial	
+Ortho Tri Cyclen	Ethinyl Estradiol + Norgestimate 	Birth Control	
+Cialis	Tadalafil	Erectile Dysfunction	
+Adipex	Phentermine	Appetite Suppressant	4
+Levoxyl	Levothyroxine 	Hormone Replacement (Thyroid)	
+Vistaril	Hydroxyzine	Anti-Histamine (H1)	
+Cataflam	Diclofenac	N.S.A.I.D.	
+Reglan	Metoclopramide	GI Motility Stimulant	
+Lopid	Gemfibrozil	Cholesterol Lowering	
+Cardizem	Diltiazem	Calcium Channel Blocker	
+Depakote	Divalproex 	Anti-Convulsant	
+Furadantin	Nitrofurantoin	Anti-Microbial	
+Remeron	Mirtazapine	Anti-Depressant	
+Xalatan	Latanoprost Opthalmic	Prostaglandin	
+Januvia	Sitagliptin	Anti-Diabetic	
+Zovirax	Acyclovir	Anti-Viral	
+Cardura	Doxazosin	Alpha Receptor Agonist	
+Lunesta	Eszopiclone	Sleep Aid	4
+Niaspan	Niacin	Cholesterol	
+Inderal	Propranolol	Beta Receptor Blocker (B1)	
+Hyzaar	Losartan + HCTZ	A2RB + Diuretic	
+Suboxone	Buprenorphine	Opioid Recovery	3
+Budeprion	Bupropion	Anti-Depressant	
+Robitussin	Guaifenesin	Cold Syrup	
+Topamax	Topiramate	Anti-convulsant	
+BuSpar	Buspirone	Anxiolytic / Hypnotic	
+Anti-Vert	Meclizine	Anti-Vertigo	
+Detrol	Tolterodine	Urinary Anti-spasmotic	
+Vyvanse	Lisdexamfetamine	ADHD	2
+Accupril	Quinapril	ACE Inhibitor	
+Aciphex	Rabeprazole	Proton Pump Inhibitor	
+Bactroban	Mupirocin	Topical Anti-Bacterial	
+Rheumatrex	Methotrexate	Anti-Rheumatic	
+Glycolax	Polyethylene Glycol	Laxative	
+Duragesic	Fentanyl Transdermal Patch	Pain Relief	2
+Tessalon Perles	Benzonatate	Cough Supressant	
+Avapro	Irbesartan	A2RB	
+Combivent	Albuterol + Ipratropium Inhaler	Bronchodilator	
+Boniva	Ibandronate	Biphosphonate (bone loss)	
+Methadose	Methadone	Opioid Depen	2
+Lotrisone	Clotrimazole + Betamethasone	Anti-Fungal + Steroid	
+Imitrex	Sumatriptan	Seratonin Agonist	
+Procardia	Nifedipine	Calcium Channel Blocker	
+Pepcid	Famotidine	Histamine Blocker (H2)	
+Fioricet	Butalbital/APAP/Caff	Headache	
+Proscar	Finasteride	Enzyme Inhibitor(Prostate)	
+Feosol	Ferrous Sulfate	Iron Deficiency	
+Hytrin	Terazosin	Alpha Receptor Agonist	
+Lovaza	Omega-3/Fish Oil	Cholestorol	
+Zanaflex	Tizanidine	Mult. Sclerosis	
+Actonel	Risedronate	Bone Resorption Inhibitor	
+Namenda	Memantine	Anti-Alzheimer	
+NovoLog	Insulin Aspart	Insulin/Type I Diabetes	
+Robaxin	Methocarbamol	Muscle Relaxer	
+Temovate	Clobetasol	Corticosteroid	
+Zebeta	Bisoprolol	Beta Blocker	
+NitroStat	Nitroglycerine	Vasodilator	
+Chantix	Varenicline	Smoking Cessation	
+Evista	Raloxifene	Estrogen Modulator	
+Peridex	Chlorhexidine Gluconate	Anti-Microbial Oral Rinse	
+Zyprexa	Olanzapine	Anti-Psychotic	
+Zofran	Ondansetron	Anti-nausea	
+Requip	Ropinirole	Parkinsons	
+Bentyl	Dicyclomine	Anti-Spasmotic	
+Humalog	Insulin Lispro	Insulin/Type I Diabetes	
+Relafen	Nabumetone	N.S.A.I.D.	
+Avalide	Irbesartan + HCTZ	A2RB + Diuretic	
+Biaxin	Clarithromycin	Macrolide Antibiotic	
+Lidoderm	Lidocaine Patch	Topical Anesthetic	
+Avodart	Dutasteride	Prostate	
+Dilantin	Phenytoin	Anti-Convulsant	
+Colchicine	Colchicine	Anti-Gout	
+Vigamox	Moxifloxacin	Antibiotic(Quinolone)	
+Lioresal	Baclofen	Muscle Relaxer	
+Plaquenil	Hydroxychloroquine	Arthritis / Lupus	
+Tussionex	Chlorpheniramine + Hydrocodone 	Narc+Anti-Hist	3
+Pyridium	Phenazopyridine	Analgesic (urinary)	
+Strattera	Atomoxetine	Norephinephrine Reuptake Inhibitor (ADHD)	
+Levitra	Vardenafil	Erectile Dysfunction	
+Nizoral	Ketoconazole	Anti-fungal	
+Pamelor	Nortriptyline	Anti-Depressant	
+Benztropine	Benzatropine	Parkinsons	
+Minocin	Minocycline	Anti-biotic	
+Avelox	Moxifloxacin	Antibiotic (Quinolone)	
+Protonix	Pantoprazole	Proton Pump Inhibitor	
+Ceftin	Cefuroxime Axetil	Anti-biotic	
+Ditropan	Oxybutynin	Overactive Bladder	
+Keppra	Levetiracetam	Anti-convulsant	
+Apresoline	Hydralazine	Anti-hypertensive	

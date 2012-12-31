@@ -1,0 +1,14 @@
+STATIN	HMG CoA Reductase Inhibitor
+RAZOLE	Proton Pump Inhibitor
+ARTAN	Angiotensin 2 Receptor Blocker
+PAM	Benzodiazepines
+OLOL	Beta Blocker
+PRIL	Angiotensin Converting Enzyme
+AZOSIN	Alpha Blocker
+ITIDINE	H2 Antagonist
+CILLIN	Penicillin Anti-Biotics
+FLOXACIN	Fluoroquinolone Anti-Biotics
+CYCLINE	Tetracycline Anti-Biotics
+ROMYCIN	Macrolide Anti-Biotics
+LAX	Laxative
+VIR	Anti-Viral
