@@ -1,12 +1,7 @@
 class QuizScreen < ProMotion::Screen
+  attr_accessor :type
   title "Quiz"
-
-  def on_appear
-    @reference  ||= ReferenceScreen.new(nav_bar: true)
-    @quiz       ||= QuizScreen.new(nav_bar: true)
-    @tab_bar    ||= open_tab_bar @reference, @quiz
-  end
-
+   
   def on_opened
     set_tab_bar_item title: "Quiz", icon: "quiz.png"
   end
@@ -19,7 +14,7 @@ class QuizScreen < ProMotion::Screen
     @index = 0
 
     @question_label = UILabel.new
-    @question_label.font = UIFont.systemFontOfSize(30)
+    @question_label.font = UIFont.systemFontOfSize(20)
     @question_label.backgroundColor = UIColor.clearColor
     @question_label.textAlignment = UITextAlignmentCenter
     @question_label.frame = [[@margin, @margin], [view.frame.size.width - @margin * 2, 35]]
@@ -53,9 +48,30 @@ private
   def questions(total)
     questions = [{'question' => '', 'answer' => ''}]
 
-    File.read(File.join(NSBundle.mainBundle.resourcePath, 'drugs.txt')).split("\n").shuffle.each do |drug|
-      brand, generic, purpose, schedule = drug.split("\t")
-      questions << {'question' => brand, 'answer' => generic} unless questions.size-1 == total
+    case self.type
+      when 'brand_to_generic'
+        drug_data.shuffle.each do |drug|
+          brand, generic, purpose, schedule = drug.split("\t")
+          questions << {'question' => brand, 'answer' => generic} unless questions.size-1 == total
+        end
+  
+     when 'brand_to_purpose'
+        drug_data.shuffle.each do |drug|
+          brand, generic, purpose, schedule = drug.split("\t")
+          questions << {'question' => brand, 'answer' => purpose} unless questions.size-1 == total
+        end
+
+      when 'generic_to_brand'
+        drug_data.shuffle.each do |drug|
+          brand, generic, purpose, schedule = drug.split("\t")
+          questions << {'question' => generic, 'answer' => brand} unless questions.size-1 == total
+        end
+
+     when 'generic_to_purpose'
+        drug_data.shuffle.each do |drug|
+          brand, generic, purpose, schedule = drug.split("\t")
+          questions << {'question' => generic, 'answer' => purpose} unless questions.size-1 == total
+        end
     end
 
     return questions
@@ -73,9 +89,24 @@ private
   def answers(correct)
     answers = [correct]
 
-    File.read(File.join(NSBundle.mainBundle.resourcePath, 'drugs.txt')).split("\n").shuffle.each do |drug|
-      brand, generic, purpose, schedule = drug.split("\t")
-      answers << generic unless answers.size == 4 or answers.include?(generic)
+    case 
+      when self.type.match(/generic$/)
+        drug_data.shuffle.each do |drug|
+          brand, generic, purpose, schedule = drug.split("\t")
+          answers << generic unless answers.size == 4 or answers.include?(generic)
+        end
+
+      when self.type.match(/purpose$/)
+        drug_data.shuffle.each do |drug|
+          brand, generic, purpose, schedule = drug.split("\t")
+          answers << purpose unless answers.size == 4 or answers.include?(purpose)
+        end
+
+      when self.type.match(/brand$/)
+        drug_data.shuffle.each do |drug|
+          brand, generic, purpose, schedule = drug.split("\t")
+          answers << brand unless answers.size == 4 or answers.include?(brand)
+        end
     end
 
     return answers.shuffle
@@ -127,6 +158,18 @@ private
     alert.message = message
     alert.addButtonWithTitle(button)
     alert.show
+  end
+
+  def drug_data
+    return File.read(File.join(NSBundle.mainBundle.resourcePath, 'drugs.txt')).split("\n")
+  end
+
+  def sig_data
+    return File.read(File.join(NSBundle.mainBundle.resourcePath, 'sig_codes.txt')).split("\n")
+  end
+
+  def suffix_data
+    return File.read(File.join(NSBundle.mainBundle.resourcePath, 'suffixes.txt')).split("\n")
   end
 
 end
