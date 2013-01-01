@@ -17,7 +17,7 @@ class QuizScreen < ProMotion::Screen
     @question_label.font = UIFont.systemFontOfSize(20)
     @question_label.backgroundColor = UIColor.clearColor
     @question_label.textAlignment = UITextAlignmentCenter
-    @question_label.frame = [[@margin, @margin], [view.frame.size.width - @margin * 2, 35]]
+    @question_label.frame = [[5, 20], [view.frame.size.width - 5 * 2, 35]]
     view.addSubview @question_label
 
     @answer_button_1 = add_answer(1) 
@@ -29,14 +29,14 @@ class QuizScreen < ProMotion::Screen
     @result_label.font = UIFont.systemFontOfSize(12)
     @result_label.backgroundColor = UIColor.clearColor
     @result_label.textAlignment = UITextAlignmentCenter
-    @result_label.frame = [[@margin, 285], [view.frame.size.width - @margin * 2, 30]]
+    @result_label.frame = [[@margin, 320], [view.frame.size.width - @margin * 2, 30]]
     view.addSubview @result_label
 
     @score_label = UILabel.new
     @score_label.font = UIFont.systemFontOfSize(30)
     @score_label.backgroundColor = UIColor.clearColor
     @score_label.textAlignment = UITextAlignmentCenter
-    @score_label.frame = [[120, 325], [80, 30]]
+    @score_label.frame = [[120, 360], [80, 30]]
     view.addSubview @score_label
 
     reset_quiz
@@ -48,31 +48,18 @@ private
   def questions(total)
     questions = [{'question' => '', 'answer' => ''}]
 
-    case self.type
-      when 'brand_to_generic'
-        drug_data.shuffle.each do |drug|
-          brand, generic, purpose, schedule = drug.split("\t")
-          questions << {'question' => brand, 'answer' => generic} unless questions.size-1 == total
+    case
+      when self.type.match(/(brand|generic|purpose)/)
+        while questions.size-1 < total 
+          drug_data.shuffle.each do |drug|
+            brand, generic, purpose, schedule = drug.split("\t")
+            questions << {'question' => brand, 'answer' => generic} if self.type == 'brand_to_generic'
+            questions << {'question' => brand, 'answer' => purpose} if self.type == 'brand_to_purpose'
+            questions << {'question' => generic, 'answer' => brand} if self.type == 'generic_to_brand'
+            questions << {'question' => generic, 'answer' => purpose} if self.type == 'generic_to_purpose'
+          end
         end
-  
-     when 'brand_to_purpose'
-        drug_data.shuffle.each do |drug|
-          brand, generic, purpose, schedule = drug.split("\t")
-          questions << {'question' => brand, 'answer' => purpose} unless questions.size-1 == total
-        end
-
-      when 'generic_to_brand'
-        drug_data.shuffle.each do |drug|
-          brand, generic, purpose, schedule = drug.split("\t")
-          questions << {'question' => generic, 'answer' => brand} unless questions.size-1 == total
-        end
-
-     when 'generic_to_purpose'
-        drug_data.shuffle.each do |drug|
-          brand, generic, purpose, schedule = drug.split("\t")
-          questions << {'question' => generic, 'answer' => purpose} unless questions.size-1 == total
-        end
-    end
+      end
 
     return questions
   end
@@ -81,7 +68,7 @@ private
     answer = UIButton.buttonWithType UIButtonTypeRoundedRect
     answer.setTitle('', forState:UIControlStateNormal)
     answer.addTarget(self, action:'show_answer:', forControlEvents:UIControlEventTouchUpInside)
-    answer.frame = [[@margin, view.frame.size.height / 200 + (60*number)], [view.frame.size.width - @margin * 2, 40]]
+    answer.frame = [[@margin, (view.frame.size.height / 200) + 20 + (60*number)], [view.frame.size.width - @margin * 2, 40]]
     view.addSubview answer
     return answer
   end
@@ -124,8 +111,11 @@ private
 
     @score_label.text = "#{@score}/#{@index}"
 
-    final_score if @index == @total
-    get_question
+    if @index == @total
+      show_alert('Quiz Complete', "Your final score was #{@score}/#{@total}", 'OK')
+    else
+      get_question
+    end
   end
 
   def get_question
@@ -136,11 +126,6 @@ private
     @answer_button_2.setTitle(@answers[1], forState:UIControlStateNormal)
     @answer_button_3.setTitle(@answers[2], forState:UIControlStateNormal)
     @answer_button_4.setTitle(@answers[3], forState:UIControlStateNormal)
-  end
-
-  def final_score
-    show_alert('Game Over', "Your final score was #{@score}/#{@total}", 'OK')
-    reset_quiz
   end
 
   def reset_quiz
@@ -154,10 +139,16 @@ private
 
   def show_alert(title, message, button)
     alert = UIAlertView.new
+    alert.delegate = self
     alert.title = title
     alert.message = message
     alert.addButtonWithTitle(button)
     alert.show
+  end
+
+  def alertView(alertView, didDismissWithButtonIndex: indexPath)
+    reset_quiz
+    get_question
   end
 
   def drug_data
