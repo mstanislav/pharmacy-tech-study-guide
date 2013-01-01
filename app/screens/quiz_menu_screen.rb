@@ -21,14 +21,14 @@ class QuizMenuScreen < ProMotion::GroupedTableScreen
     }, {
       title: "Sig Codes",
       cells: [
-        { title: "Sig Code to Definition", action: :quiz, arguments: { type: 'sig_to_definition' } },
-        { title: "Definition to Sig Code", action: :quiz, arguments: { type: 'definition_to_sig' } }
+        { title: "Sig Code to Definition", action: :quiz, arguments: { type: 'sig_to_sigdef' } },
+        { title: "Definition to Sig Code", action: :quiz, arguments: { type: 'sigdef_to_sig' } }
       ] 
     }, {
       title: "Suffixes",
       cells: [
-        { title: "Suffix to Definition", action: :quiz, arguments: { type: 'suffix_to_definition' } },
-        { title: "Definition to Suffix", action: :quiz, arguments: { type: 'definition_to_suffix' } }
+        { title: "Suffix to Definition", action: :quiz, arguments: { type: 'suffix_to_suffixdef' } },
+        { title: "Definition to Suffix", action: :quiz, arguments: { type: 'suffixdef_to_suffix' } }
       ] 
     }]
   end

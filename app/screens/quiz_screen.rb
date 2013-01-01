@@ -51,15 +51,27 @@ private
     case
       when self.type.match(/(brand|generic|purpose)/)
         while questions.size-1 < total 
-          drug_data.shuffle.each do |drug|
-            brand, generic, purpose, schedule = drug.split("\t")
-            questions << {'question' => brand, 'answer' => generic} if self.type == 'brand_to_generic'
-            questions << {'question' => brand, 'answer' => purpose} if self.type == 'brand_to_purpose'
-            questions << {'question' => generic, 'answer' => brand} if self.type == 'generic_to_brand'
-            questions << {'question' => generic, 'answer' => purpose} if self.type == 'generic_to_purpose'
-          end
+          brand, generic, purpose, schedule = drug_data.shuffle.first.split("\t")
+          questions << {'question' => brand, 'answer' => generic} if self.type == 'brand_to_generic'
+          questions << {'question' => brand, 'answer' => purpose} if self.type == 'brand_to_purpose'
+          questions << {'question' => generic, 'answer' => brand} if self.type == 'generic_to_brand'
+          questions << {'question' => generic, 'answer' => purpose} if self.type == 'generic_to_purpose'
         end
-      end
+      when
+        self.type.match(/sig/)
+          while questions.size-1 < total 
+            code, definition = sig_data.shuffle.first.split("\t")
+            questions << {'question' => code, 'answer' => definition} if self.type == 'sig_to_sigdef'
+            questions << {'question' => definition, 'answer' => code} if self.type == 'sigdef_to_sig'
+          end
+      when
+        self.type.match(/suffix/)
+          while questions.size-1 < total 
+            suffix, definition = suffix_data.shuffle.first.split("\t")
+            questions << {'question' => suffix, 'answer' => definition} if self.type == 'suffix_to_suffixdef'
+            questions << {'question' => definition, 'answer' => suffix} if self.type == 'suffixdef_to_suffix'
+          end
+    end
 
     return questions
   end
@@ -77,22 +89,24 @@ private
     answers = [correct]
 
     case 
-      when self.type.match(/generic$/)
-        drug_data.shuffle.each do |drug|
-          brand, generic, purpose, schedule = drug.split("\t")
-          answers << generic unless answers.size == 4 or answers.include?(generic)
+      when self.type.match(/(brand|generic|purpose)/)
+        while answers.size < 4
+          brand, generic, purpose, schedule = drug_data.shuffle.first.split("\t")
+          answers << generic if self.type =~ /generic$/
+          answers << brand if self.type =~ /brand$/
+          answers << purpose if self.type =~ /purpose$/
         end
-
-      when self.type.match(/purpose$/)
-        drug_data.shuffle.each do |drug|
-          brand, generic, purpose, schedule = drug.split("\t")
-          answers << purpose unless answers.size == 4 or answers.include?(purpose)
+      when self.type.match(/sig/)
+        while answers.size < 4
+          code, definition = sig_data.shuffle.first.split("\t")
+          answers << definition if self.type =~ /sigdef$/
+          answers << code if self.type =~ /sig$/
         end
-
-      when self.type.match(/brand$/)
-        drug_data.shuffle.each do |drug|
-          brand, generic, purpose, schedule = drug.split("\t")
-          answers << brand unless answers.size == 4 or answers.include?(brand)
+      when self.type.match(/suffix/)
+        while answers.size < 4
+          suffix, definition = suffix_data.shuffle.first.split("\t")
+          answers << definition if self.type =~ /suffixdef$/
+          answers << suffix if self.type =~ /suffix$/
         end
     end
 
