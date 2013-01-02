@@ -25,7 +25,7 @@ class ReferenceScreen < ProMotion::GroupedTableScreen
       title: "General",
       cells: [
         { title: "Drug Suffixes", action: :suffixes },
-        { title: "SIG Codes", action: :sig_codes },
+        { title: "Abbreviations", action: :abbreviations },
       ]
     }, {
       title: "Math",
@@ -56,8 +56,8 @@ class ReferenceScreen < ProMotion::GroupedTableScreen
     open_screen SuffixesScreen, hide_tab_bar: true
   end
 
-  def sig_codes
-    open_screen SigCodesScreen, hide_tab_bar: true
+  def abbreviations
+    open_screen AbbreviationsScreen, hide_tab_bar: true
   end
 
   def math_formulas

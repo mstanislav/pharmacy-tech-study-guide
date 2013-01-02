@@ -19,10 +19,10 @@ class QuizMenuScreen < ProMotion::GroupedTableScreen
         { title: "Generic Name to Purpose", action: :quiz, arguments: { type: 'generic_to_purpose' } }
       ]
     }, {
-      title: "Sig Codes",
+      title: "Abbreviations",
       cells: [
-        { title: "Sig Code to Definition", action: :quiz, arguments: { type: 'sig_to_sigdef' } },
-        { title: "Definition to Sig Code", action: :quiz, arguments: { type: 'sigdef_to_sig' } }
+        { title: "Abbreviation to Definition", action: :quiz, arguments: { type: 'abbr_to_abbrdef' } },
+        { title: "Definition to Abbreviation", action: :quiz, arguments: { type: 'abbrdef_to_abbr' } }
       ] 
     }, {
       title: "Suffixes",

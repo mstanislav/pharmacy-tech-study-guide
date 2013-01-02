@@ -58,11 +58,11 @@ private
           questions << {'question' => generic, 'answer' => purpose} if self.type == 'generic_to_purpose'
         end
       when
-        self.type.match(/sig/)
+        self.type.match(/abbr/)
           while questions.size-1 < total 
-            code, definition = sig_data.shuffle.first.split("\t")
-            questions << {'question' => code, 'answer' => definition} if self.type == 'sig_to_sigdef'
-            questions << {'question' => definition, 'answer' => code} if self.type == 'sigdef_to_sig'
+            code, definition = abbr_data.shuffle.first.split("\t")
+            questions << {'question' => code, 'answer' => definition} if self.type == 'abbr_to_abbrdef'
+            questions << {'question' => definition, 'answer' => code} if self.type == 'abbrdef_to_abbr'
           end
       when
         self.type.match(/suffix/)
@@ -96,11 +96,11 @@ private
           answers << brand if self.type =~ /brand$/
           answers << purpose if self.type =~ /purpose$/
         end
-      when self.type.match(/sig/)
+      when self.type.match(/abbr/)
         while answers.size < 4
-          code, definition = sig_data.shuffle.first.split("\t")
-          answers << definition if self.type =~ /sigdef$/
-          answers << code if self.type =~ /sig$/
+          code, definition = abbr_data.shuffle.first.split("\t")
+          answers << definition if self.type =~ /abbrdef$/
+          answers << code if self.type =~ /abbr$/
         end
       when self.type.match(/suffix/)
         while answers.size < 4
@@ -169,8 +169,8 @@ private
     return File.read(File.join(NSBundle.mainBundle.resourcePath, 'drugs.txt')).split("\n")
   end
 
-  def sig_data
-    return File.read(File.join(NSBundle.mainBundle.resourcePath, 'sig_codes.txt')).split("\n")
+  def abbr_data
+    return File.read(File.join(NSBundle.mainBundle.resourcePath, 'abbreviations.txt')).split("\n")
   end
 
   def suffix_data

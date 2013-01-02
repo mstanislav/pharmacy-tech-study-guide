@@ -1,3 +1,8 @@
+kilo	1000 times	Prefix
+deci	1/10 times (d)	Prefix
+centi	1/100 times (c)	Prefix
+milli	1/1000 times (m)	Prefix
+micro	1/1000000 times (mc)	Prefix
 1 fl oz	30 mL	Liquid
 1 cup (8 fl oz)	240 mL	Liquid
 1 pint (16 fl oz)	480 mL	Liquid
