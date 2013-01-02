@@ -22,10 +22,16 @@ class ReferenceScreen < ProMotion::GroupedTableScreen
         { title: "Schedule", action: :schedule }
       ]
     }, {
-      title: "Other Reference",
+      title: "General",
       cells: [
-        { title: "Suffixes", action: :suffixes },
-        { title: "SIG Codes", action: :sig_codes }
+        { title: "Drug Suffixes", action: :suffixes },
+        { title: "SIG Codes", action: :sig_codes },
+      ]
+    }, {
+      title: "Math",
+      cells: [
+        { title: "Formulas", action: :math_formulas },
+        { title: "Conversions", action: :measurement_conversions }
       ]
     }]
   end
@@ -52,6 +58,14 @@ class ReferenceScreen < ProMotion::GroupedTableScreen
 
   def sig_codes
     open_screen SigCodesScreen, hide_tab_bar: true
+  end
+
+  def math_formulas
+    open_screen MathFormulasScreen, hide_tab_bar: true
+  end
+
+  def measurement_conversions
+    open_screen MeasurementConversionsScreen, hide_tab_bar: true
   end
 
 end

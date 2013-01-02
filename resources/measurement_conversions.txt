@@ -1,0 +1,11 @@
+1 fl oz	30 mL	Liquid
+1 cup (8 fl oz)	240 mL	Liquid
+1 pint (16 fl oz)	480 mL	Liquid
+1 quart (32 fl oz)	960 mL	Liquid
+1 gallon (128 fl oz)	3800 mL	Liquid
+1 teaspoon	5 mL	Liquid
+1 tablespoon	15 mL	Liquid
+1 oz	30 g	Weight
+1 lb (16 oz)	480 g 	Weight
+1 grain	60 mg	Weight
+15 grains	1 g 	Weight

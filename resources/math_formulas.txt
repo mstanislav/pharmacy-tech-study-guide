@@ -1,0 +1,9 @@
+Fahrenheit to Celsius	(F - 32) x (5/9) = Celsius
+Celsius to Fahrenheit	C x (9/5) + 32 = Fahrenheit
+IV Calculations - Rate	Volume / Time = Rate
+IV Calculations - Volume	Rate x Time = Volume
+IV Calculations - Time	Volume / Rate = Time
+Dilutions	C1 x V1 = C2 x V2
+Flow Rate (gtt/min)	(Volume [mL]) x drop factor (gtt/mL) = Rate
+Clark's Rule (weight)	Adult Dose x (Weight / 150) = Child Dose
+Young's Rule (age)	Adult Dose x (Age / (Age+12)) = Child Dose
