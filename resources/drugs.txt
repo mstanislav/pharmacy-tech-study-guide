@@ -1,200 +1,200 @@
 Vicodin	APAP + Hydrocodone	Pain Relief	3
-Prinivil	Lisinopril	ACE Inhibitor	
-Zocor	Simvastatin	Statin	
-Synthroid	Levothyroxine	Hormone Replacement	
-Amoxil	Amoxicillin	Antibiotic (Penicillin)	
-Zithromax	Azithromycin	Macrolide Antibiotic	
-Microzide	Hydrochlorothiazide (HCTZ)	Thiazide Diuretic	
-Norvasc	Amlodipine	Calcium Channel Blocker	
+Prinivil	Lisinopril	ACE Inhibitor	6
+Zocor	Simvastatin	Statin	6
+Synthroid	Levothyroxine	Hormone Replacement	6
+Amoxil	Amoxicillin	Antibiotic (Penicillin)	6
+Zithromax	Azithromycin	Macrolide Antibiotic	6
+Microzide	Hydrochlorothiazide (HCTZ)	Thiazide Diuretic	6
+Norvasc	Amlodipine	Calcium Channel Blocker	6
 Xanax	Alprazolam	Benzodiazepine	4
-Glucophage	Metformin	Antidiabetic	
-Lipitor	Atorvastatin	Statin	
-Prilosec	Omeprazole	Proton Pump Inhibitor	
-Augmentin	Amoxicillin + Clavulanate	Penicillin Antibiotic	
-Tenormin	Atenolol	Beta Blocker (B1)	
-Lasix	Furosemide	Diuretic	
-Lopressor	Metoprolol	Beta Receptor Blocker (B1)	
-Zoloft	Sertraline	S.S.R.I.	
+Glucophage	Metformin	Antidiabetic	6
+Lipitor	Atorvastatin	Statin	6
+Prilosec	Omeprazole	Proton Pump Inhibitor	6
+Augmentin	Amoxicillin + Clavulanate	Penicillin Antibiotic	6
+Tenormin	Atenolol	Beta Blocker (B1)	6
+Lasix	Furosemide	Diuretic	6
+Lopressor	Metoprolol	Beta Receptor Blocker (B1)	6
+Zoloft	Sertraline	S.S.R.I.	6
 Ambien	Zolpidem	Sleep Aid	4
 Percocet	Oxycodone + APAP	Pain Relief	2
-Nexium	Esomeprazole	Proton Pump Inhibitor	
-Plavix	Clopidogrel	Platelet Aggregation Inhibitor	
-Singulair	Montelukast	Leukotriene Inhibitor	
-Sterapred	Prednisone	Corticosteroid	
-Lexapro	Escitalopram	S.S.R.I.	
-Advil	Ibuprofen	N.S.A.I.D.	
-Celexa	Citalopram	Anti-Depressant (S.S.R.I.)	
-ProAir	Albuterol	B2 Receptor Agonist (Lungs)	
-Prozac	Fluoxetine	S.S.R.I.	
-Neurontin	Gabapentin	Anti-Convulsant	
-Coumadin	Warfarin	Blood Thinner	
-Ultram	Tramadol	Pain Relief	
+Nexium	Esomeprazole	Proton Pump Inhibitor	6
+Plavix	Clopidogrel	Platelet Aggregation Inhibitor	6
+Singulair	Montelukast	Leukotriene Inhibitor	6
+Sterapred	Prednisone	Corticosteroid	6
+Lexapro	Escitalopram	S.S.R.I.	6
+Advil	Ibuprofen	N.S.A.I.D.	6
+Celexa	Citalopram	Anti-Depressant (S.S.R.I.)	6
+ProAir	Albuterol	B2 Receptor Agonist (Lungs)	6
+Prozac	Fluoxetine	S.S.R.I.	6
+Neurontin	Gabapentin	Anti-Convulsant	6
+Coumadin	Warfarin	Blood Thinner	6
+Ultram	Tramadol	Pain Relief	6
 Klonopin	Clonazepam	Benzodiazepine	4
 Ativan	Lorazepam	Benzodiazepine	4
-Keflex	Cephalexin	Antibiotic (Cephalosporin)	
-Flexeril	Cyclobenzaprine	Muscle Relaxant	
-Septra	Sulfamethoxazole + Trimethoprim 	Antibiotic Combination	
-Cipro	Ciprofloxacin	Quinolone Antibiotic	
-Flonase	Fluticasone	Inhaled Steroid	
-Dyrenium	Triamterene	Diuretic	
-Pravachol	Pravastatin	Cholesterol / Statin	
-Crestor	Rosuvastatin	Statin	
-Advair	Fluticasone + Salmeterol	Bronchodilator + Steroid	
-Desyrel	Trazodone	Anti-Depressant	
+Keflex	Cephalexin	Antibiotic (Cephalosporin)	6
+Flexeril	Cyclobenzaprine	Muscle Relaxant	6
+Septra	Sulfamethoxazole + Trimethoprim 	Antibiotic Combination	6
+Cipro	Ciprofloxacin	Quinolone Antibiotic	6
+Flonase	Fluticasone	Inhaled Steroid	6
+Dyrenium	Triamterene	Diuretic	6
+Pravachol	Pravastatin	Cholesterol / Statin	6
+Crestor	Rosuvastatin	Statin	6
+Advair	Fluticasone + Salmeterol	Bronchodilator + Steroid	6
+Desyrel	Trazodone	Anti-Depressant	6
 Darvocet	Propoxyphene + APAP	Pain Relief	4
-Fosamax	Alendronate	Bone Resorption Inhibitor	
-Allegra	Fexofenadine	Antihistamine (H1)	
-Mevacor	Lovastatin	Cholesterol / Statin	
-Coreg	Carvedilol	Beta Receptor Blocker	
-Paxil	Paroxetine	S.S.R.I.	
-Mobic	Meloxicam	N.S.A.I.D.	
+Fosamax	Alendronate	Bone Resorption Inhibitor	6
+Allegra	Fexofenadine	Antihistamine (H1)	6
+Mevacor	Lovastatin	Cholesterol / Statin	6
+Coreg	Carvedilol	Beta Receptor Blocker	6
+Paxil	Paroxetine	S.S.R.I.	6
+Mobic	Meloxicam	N.S.A.I.D.	6
 Valium	Diazepam	Benzodiazepine	4
-Diovan	Valsartan	A2RB	
-Cymbalta	Duloxetine	Anti-Depressant	
-Effexor	Venlafaxine	Anti-Depressant	
-Zantac	Ranitidine	Histamine Blocker (H2)	
-Diflucan	Fluconazole	Anti-Fungal	
-Aleve	Naproxen	N.S.A.I.D.	
-Vibramycin	Doxycycline	Antibiotic (Tetracycline)	
-Klor-Con	Potassium Chloride	Electrolyte	
-Elavil	Amitriptyline	Anti-Depressant	
-Prevacid	Lansoprazole	Proton Pump Inhibitor	
-Actos	Pioglitazone	Anti-Diabetic	
-Medrol	Methylprednisolone	Steroid Anti-Inflammatory	
-Zyloprim	Allopurinol	Xanthine Oxidase Inhibitor	
+Diovan	Valsartan	A2RB	6
+Cymbalta	Duloxetine	Anti-Depressant	6
+Effexor	Venlafaxine	Anti-Depressant	6
+Zantac	Ranitidine	Histamine Blocker (H2)	6
+Diflucan	Fluconazole	Anti-Fungal	6
+Aleve	Naproxen	N.S.A.I.D.	6
+Vibramycin	Doxycycline	Antibiotic (Tetracycline)	6
+Klor-Con	Potassium Chloride	Electrolyte	6
+Elavil	Amitriptyline	Anti-Depressant	6
+Prevacid	Lansoprazole	Proton Pump Inhibitor	6
+Actos	Pioglitazone	Anti-Diabetic	6
+Medrol	Methylprednisolone	Steroid Anti-Inflammatory	6
+Zyloprim	Allopurinol	Xanthine Oxidase Inhibitor	6
 Tylenol 3	Codeine + APAP	Pain Relief	3
-Vasotec	Enalapril	ACE Inhibitor	
+Vasotec	Enalapril	ACE Inhibitor	6
 Soma	Carisoprodol	Muscle Relaxant	4
-Flomax	Tamsulosin	Prostate Receptor Agonist	
-Vytorin	Ezetimibe + Simvastatin	Cholesterol Lowering	
-Seroquel	Quetiapine	Anti-psychotic	
-Levaquin	Levofloxacin	Antibiotic (Quinolone)	
-Tricor	Fenofibrate	Cholesterol	
-Catapres	Clonidine	Alpha Receptor Agonist	
-Phenergan	Promethazine	Anti-Nausea / Anti-emetic	
-Yaz	Ethinyl estradiol + Drospirenone	Birth Control	
-Viagra	Sildenafil	Erectile Dysfunction	
-Celebrex	Celecoxib	N.S.A.I.D.COX-2 Inhibitor	
-Proventil	Albuterol	Beta Agonist (B2) (Lungs)	
+Flomax	Tamsulosin	Prostate Receptor Agonist	6
+Vytorin	Ezetimibe + Simvastatin	Cholesterol Lowering	6
+Seroquel	Quetiapine	Anti-psychotic	6
+Levaquin	Levofloxacin	Antibiotic (Quinolone)	6
+Tricor	Fenofibrate	Cholesterol	6
+Catapres	Clonidine	Alpha Receptor Agonist	6
+Phenergan	Promethazine	Anti-Nausea / Anti-emetic	6
+Yaz	Ethinyl estradiol + Drospirenone	Birth Control	6
+Viagra	Sildenafil	Erectile Dysfunction	6
+Celebrex	Celecoxib	N.S.A.I.D.COX-2 Inhibitor	6
+Proventil	Albuterol	Beta Agonist (B2) (Lungs)	6
 Oxycontin	Oxycodone	Pain Relief	2
-Lantus	Insulin Glargine	Insulin	
-Nasonex	Mometasone	Corticosteroid	
-Lyrica	Pregabalin	Anti-convulsant / Neurologic	
-Amaryl	Glimepiride	Antidiabetic	
+Lantus	Insulin Glargine	Insulin	6
+Nasonex	Mometasone	Corticosteroid	6
+Lyrica	Pregabalin	Anti-convulsant / Neurologic	6
+Amaryl	Glimepiride	Antidiabetic	6
 Restoril	Temazepam	Sleep Aid	4
-Folvite	Folic Acid	Mineral Supp.	
-Premarin	Conjugated Estrogen	Estrogen Replacement	
-Zetia	Ezetimibe	Colesterol	
-Aldactone	Spironolactone	Diuretic	
-Lanoxin	Digoxin	Inotrope	
-Imdur	Isosorbide Mononitrate	Nitrate Vasodilator	
-Omnicef	Cefdinir	Anti-biotic (Cephalosporin)	
-Altace	Ramipril	ACE Inhibitor	
-Nasacort	Triamcinolone	Inhaled Steroid	
-Ventolin	Albuterol	Bronchodilator	
-Cozaar	Losartan	A2RB	
+Folvite	Folic Acid	Mineral Supp.	6
+Premarin	Conjugated Estrogen	Estrogen Replacement	6
+Zetia	Ezetimibe	Colesterol	6
+Aldactone	Spironolactone	Diuretic	6
+Lanoxin	Digoxin	Inotrope	6
+Imdur	Isosorbide Mononitrate	Nitrate Vasodilator	6
+Omnicef	Cefdinir	Anti-biotic (Cephalosporin)	6
+Altace	Ramipril	ACE Inhibitor	6
+Nasacort	Triamcinolone	Inhaled Steroid	6
+Ventolin	Albuterol	Bronchodilator	6
+Cozaar	Losartan	A2RB	6
 Concerta	Methylphenidate	ADHD	2
-DiaBeta	Glyburide	Anti-Diabetic	
-Valtrex	Valacyclovir	Anti-Viral	
-Tamiflu	Oseltamivir	Anti-Viral (Flu)	
-Pen-VK	Penicillin vk	Antibiotic	
-Spiriva	Tiotropium	Anti-cholinergic 	
-Lotensin	Benazepril	ACE Inhibitor	
-Lamictal	Lamotrigine	Anti-convulsant	
-Benicar HCT	Olmesartan + HCTZ	A2RB + Diuretic	
-Aricept	Donepezil	Cholinesterase Inhibitor	
-Risperdal	Risperidone	Anti-Psychotic	
-Glucotrol	Glipizide	Anti-Diabetic	
+DiaBeta	Glyburide	Anti-Diabetic	6
+Valtrex	Valacyclovir	Anti-Viral	6
+Tamiflu	Oseltamivir	Anti-Viral (Flu)	6
+Pen-VK	Penicillin vk	Antibiotic	6
+Spiriva	Tiotropium	Anti-cholinergic 	6
+Lotensin	Benazepril	ACE Inhibitor	6
+Lamictal	Lamotrigine	Anti-convulsant	6
+Benicar HCT	Olmesartan + HCTZ	A2RB + Diuretic	6
+Aricept	Donepezil	Cholinesterase Inhibitor	6
+Risperdal	Risperidone	Anti-Psychotic	6
+Glucotrol	Glipizide	Anti-Diabetic	6
 Adderall	Amphetamine + Dextroamphetamine	Stimulant(ADHD)	2
-Abilify	Aripiprazole	Anti-psychotic	
-Verelan	Verapamil	Calcium Channel Blocker	
-Cleocin	Clindamycin 	Anti-Microbial	
-Flagyl	Metronidazole	Anti-Microbial	
-Ortho Tri Cyclen	Ethinyl Estradiol + Norgestimate 	Birth Control	
-Cialis	Tadalafil	Erectile Dysfunction	
+Abilify	Aripiprazole	Anti-psychotic	6
+Verelan	Verapamil	Calcium Channel Blocker	6
+Cleocin	Clindamycin 	Anti-Microbial	6
+Flagyl	Metronidazole	Anti-Microbial	6
+Ortho Tri Cyclen	Ethinyl Estradiol + Norgestimate 	Birth Control	6
+Cialis	Tadalafil	Erectile Dysfunction	6
 Adipex	Phentermine	Appetite Suppressant	4
-Levoxyl	Levothyroxine 	Hormone Replacement (Thyroid)	
-Vistaril	Hydroxyzine	Anti-Histamine (H1)	
-Cataflam	Diclofenac	N.S.A.I.D.	
-Reglan	Metoclopramide	GI Motility Stimulant	
-Lopid	Gemfibrozil	Cholesterol Lowering	
-Cardizem	Diltiazem	Calcium Channel Blocker	
-Depakote	Divalproex 	Anti-Convulsant	
-Furadantin	Nitrofurantoin	Anti-Microbial	
-Remeron	Mirtazapine	Anti-Depressant	
-Xalatan	Latanoprost Opthalmic	Prostaglandin	
-Januvia	Sitagliptin	Anti-Diabetic	
-Zovirax	Acyclovir	Anti-Viral	
-Cardura	Doxazosin	Alpha Receptor Agonist	
+Levoxyl	Levothyroxine 	Hormone Replacement (Thyroid)	6
+Vistaril	Hydroxyzine	Anti-Histamine (H1)	6
+Cataflam	Diclofenac	N.S.A.I.D.	6
+Reglan	Metoclopramide	GI Motility Stimulant	6
+Lopid	Gemfibrozil	Cholesterol Lowering	6
+Cardizem	Diltiazem	Calcium Channel Blocker	6
+Depakote	Divalproex 	Anti-Convulsant	6
+Furadantin	Nitrofurantoin	Anti-Microbial	6
+Remeron	Mirtazapine	Anti-Depressant	6
+Xalatan	Latanoprost Opthalmic	Prostaglandin	6
+Januvia	Sitagliptin	Anti-Diabetic	6
+Zovirax	Acyclovir	Anti-Viral	6
+Cardura	Doxazosin	Alpha Receptor Agonist	6
 Lunesta	Eszopiclone	Sleep Aid	4
-Niaspan	Niacin	Cholesterol	
-Inderal	Propranolol	Beta Receptor Blocker (B1)	
-Hyzaar	Losartan + HCTZ	A2RB + Diuretic	
+Niaspan	Niacin	Cholesterol	6
+Inderal	Propranolol	Beta Receptor Blocker (B1)	6
+Hyzaar	Losartan + HCTZ	A2RB + Diuretic	6
 Suboxone	Buprenorphine	Opioid Recovery	3
-Budeprion	Bupropion	Anti-Depressant	
-Robitussin	Guaifenesin	Cold Syrup	
-Topamax	Topiramate	Anti-convulsant	
-BuSpar	Buspirone	Anxiolytic / Hypnotic	
-Anti-Vert	Meclizine	Anti-Vertigo	
-Detrol	Tolterodine	Urinary Anti-spasmotic	
+Budeprion	Bupropion	Anti-Depressant	6
+Robitussin	Guaifenesin	Cold Syrup	6
+Topamax	Topiramate	Anti-convulsant	6
+BuSpar	Buspirone	Anxiolytic / Hypnotic	6
+Anti-Vert	Meclizine	Anti-Vertigo	6
+Detrol	Tolterodine	Urinary Anti-spasmotic	6
 Vyvanse	Lisdexamfetamine	ADHD	2
-Accupril	Quinapril	ACE Inhibitor	
-Aciphex	Rabeprazole	Proton Pump Inhibitor	
-Bactroban	Mupirocin	Topical Anti-Bacterial	
-Rheumatrex	Methotrexate	Anti-Rheumatic	
-Glycolax	Polyethylene Glycol	Laxative	
+Accupril	Quinapril	ACE Inhibitor	6
+Aciphex	Rabeprazole	Proton Pump Inhibitor	6
+Bactroban	Mupirocin	Topical Anti-Bacterial	6
+Rheumatrex	Methotrexate	Anti-Rheumatic	6
+Glycolax	Polyethylene Glycol	Laxative	6
 Duragesic	Fentanyl Transdermal Patch	Pain Relief	2
-Tessalon Perles	Benzonatate	Cough Supressant	
-Avapro	Irbesartan	A2RB	
-Combivent	Albuterol + Ipratropium Inhaler	Bronchodilator	
-Boniva	Ibandronate	Biphosphonate (bone loss)	
+Tessalon Perles	Benzonatate	Cough Supressant	6
+Avapro	Irbesartan	A2RB	6
+Combivent	Albuterol + Ipratropium Inhaler	Bronchodilator	6
+Boniva	Ibandronate	Biphosphonate (bone loss)	6
 Methadose	Methadone	Opioid Depen	2
-Lotrisone	Clotrimazole + Betamethasone	Anti-Fungal + Steroid	
-Imitrex	Sumatriptan	Seratonin Agonist	
-Procardia	Nifedipine	Calcium Channel Blocker	
-Pepcid	Famotidine	Histamine Blocker (H2)	
-Fioricet	Butalbital/APAP/Caff	Headache	
-Proscar	Finasteride	Enzyme Inhibitor(Prostate)	
-Feosol	Ferrous Sulfate	Iron Deficiency	
-Hytrin	Terazosin	Alpha Receptor Agonist	
-Lovaza	Omega-3/Fish Oil	Cholestorol	
-Zanaflex	Tizanidine	Mult. Sclerosis	
-Actonel	Risedronate	Bone Resorption Inhibitor	
-Namenda	Memantine	Anti-Alzheimer	
-NovoLog	Insulin Aspart	Insulin/Type I Diabetes	
-Robaxin	Methocarbamol	Muscle Relaxer	
-Temovate	Clobetasol	Corticosteroid	
-Zebeta	Bisoprolol	Beta Blocker	
-NitroStat	Nitroglycerine	Vasodilator	
-Chantix	Varenicline	Smoking Cessation	
-Evista	Raloxifene	Estrogen Modulator	
-Peridex	Chlorhexidine Gluconate	Anti-Microbial Oral Rinse	
-Zyprexa	Olanzapine	Anti-Psychotic	
-Zofran	Ondansetron	Anti-nausea	
-Requip	Ropinirole	Parkinsons	
-Bentyl	Dicyclomine	Anti-Spasmotic	
-Humalog	Insulin Lispro	Insulin/Type I Diabetes	
-Relafen	Nabumetone	N.S.A.I.D.	
-Avalide	Irbesartan + HCTZ	A2RB + Diuretic	
-Biaxin	Clarithromycin	Macrolide Antibiotic	
-Lidoderm	Lidocaine Patch	Topical Anesthetic	
-Avodart	Dutasteride	Prostate	
-Dilantin	Phenytoin	Anti-Convulsant	
-Colchicine	Colchicine	Anti-Gout	
-Vigamox	Moxifloxacin	Antibiotic(Quinolone)	
-Lioresal	Baclofen	Muscle Relaxer	
-Plaquenil	Hydroxychloroquine	Arthritis / Lupus	
+Lotrisone	Clotrimazole + Betamethasone	Anti-Fungal + Steroid	6
+Imitrex	Sumatriptan	Seratonin Agonist	6
+Procardia	Nifedipine	Calcium Channel Blocker	6
+Pepcid	Famotidine	Histamine Blocker (H2)	6
+Fioricet	Butalbital/APAP/Caff	Headache	6
+Proscar	Finasteride	Enzyme Inhibitor(Prostate)	6
+Feosol	Ferrous Sulfate	Iron Deficiency	6
+Hytrin	Terazosin	Alpha Receptor Agonist	6
+Lovaza	Omega-3/Fish Oil	Cholestorol	6
+Zanaflex	Tizanidine	Mult. Sclerosis	6
+Actonel	Risedronate	Bone Resorption Inhibitor	6
+Namenda	Memantine	Anti-Alzheimer	6
+NovoLog	Insulin Aspart	Insulin/Type I Diabetes	6
+Robaxin	Methocarbamol	Muscle Relaxer	6
+Temovate	Clobetasol	Corticosteroid	6
+Zebeta	Bisoprolol	Beta Blocker	6
+NitroStat	Nitroglycerine	Vasodilator	6
+Chantix	Varenicline	Smoking Cessation	6
+Evista	Raloxifene	Estrogen Modulator	6
+Peridex	Chlorhexidine Gluconate	Anti-Microbial Oral Rinse	6
+Zyprexa	Olanzapine	Anti-Psychotic	6
+Zofran	Ondansetron	Anti-nausea	6
+Requip	Ropinirole	Parkinsons	6
+Bentyl	Dicyclomine	Anti-Spasmotic	6
+Humalog	Insulin Lispro	Insulin/Type I Diabetes	6
+Relafen	Nabumetone	N.S.A.I.D.	6
+Avalide	Irbesartan + HCTZ	A2RB + Diuretic	6
+Biaxin	Clarithromycin	Macrolide Antibiotic	6
+Lidoderm	Lidocaine Patch	Topical Anesthetic	6
+Avodart	Dutasteride	Prostate	6
+Dilantin	Phenytoin	Anti-Convulsant	6
+Colchicine	Colchicine	Anti-Gout	6
+Vigamox	Moxifloxacin	Antibiotic(Quinolone)	6
+Lioresal	Baclofen	Muscle Relaxer	6
+Plaquenil	Hydroxychloroquine	Arthritis / Lupus	6
 Tussionex	Chlorpheniramine + Hydrocodone 	Narc+Anti-Hist	3
-Pyridium	Phenazopyridine	Analgesic (urinary)	
-Strattera	Atomoxetine	Norephinephrine Reuptake Inhibitor (ADHD)	
-Levitra	Vardenafil	Erectile Dysfunction	
-Nizoral	Ketoconazole	Anti-fungal	
-Pamelor	Nortriptyline	Anti-Depressant	
-Benztropine	Benzatropine	Parkinsons	
-Minocin	Minocycline	Anti-biotic	
-Avelox	Moxifloxacin	Antibiotic (Quinolone)	
-Protonix	Pantoprazole	Proton Pump Inhibitor	
-Ceftin	Cefuroxime Axetil	Anti-biotic	
-Ditropan	Oxybutynin	Overactive Bladder	
-Keppra	Levetiracetam	Anti-convulsant	
-Apresoline	Hydralazine	Anti-hypertensive	
+Pyridium	Phenazopyridine	Analgesic (urinary)	6
+Strattera	Atomoxetine	Norephinephrine Reuptake Inhibitor (ADHD)	6
+Levitra	Vardenafil	Erectile Dysfunction	6
+Nizoral	Ketoconazole	Anti-fungal	6
+Pamelor	Nortriptyline	Anti-Depressant	6
+Benztropine	Benzatropine	Parkinsons	6
+Minocin	Minocycline	Anti-biotic	6
+Avelox	Moxifloxacin	Antibiotic (Quinolone)	6
+Protonix	Pantoprazole	Proton Pump Inhibitor	6
+Ceftin	Cefuroxime Axetil	Anti-biotic	6
+Ditropan	Oxybutynin	Overactive Bladder	6
+Keppra	Levetiracetam	Anti-convulsant	6
+Apresoline	Hydralazine	Anti-hypertensive	6
