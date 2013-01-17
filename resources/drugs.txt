@@ -1,200 +1,215 @@
+Crack Cocaine	Crack Cocaine	No FDA Approved Use	1
+Heroin	Heroin	No FDA Approved Use	1
+Psilocybin	Psilocybin	No FDA Approved Use	1
+LSD	LSD	No FDA Approved Use	1
+GHB	GHB	No FDA Approved Use	1
+Peyote	Peyote	No FDA Approved Use	1
+Marijuana	Marijuana	No FDA Approved Use	1
+Crystal Methamphetamine	Crystal Methamphetamine	No FDA Approved Use	1
+Robitussin AC	Codeine + Guaifenesin	Cough Supressant	5
+Lomotil	Diphenoxylate + Atropine	Anti-Diarrheal	5
+Lyrica	Pregabalin	Analgesic	5
+Cocaine	Cocaine	Topical Anaesthetic	2
+Dilaudid	Hydromorphone	Opoid Analgesic	2
+Ritalin	Methylphenidate	ADHD	2
+Androgel	Testosterone	Hormone Replacement	3
+Phenobarbital	Phenobarbital	Anti-Convulsant	4
 Vicodin	APAP + Hydrocodone	Pain Relief	3
-Prinivil	Lisinopril	ACE Inhibitor	6
-Zocor	Simvastatin	Statin	6
-Synthroid	Levothyroxine	Hormone Replacement	6
-Amoxil	Amoxicillin	Antibiotic (Penicillin)	6
-Zithromax	Azithromycin	Macrolide Antibiotic	6
-Microzide	Hydrochlorothiazide (HCTZ)	Thiazide Diuretic	6
-Norvasc	Amlodipine	Calcium Channel Blocker	6
+Prinivil	Lisinopril	ACE Inhibitor	Non-Controlled
+Zocor	Simvastatin	Statin	Non-Controlled
+Synthroid	Levothyroxine	Hormone Replacement	Non-Controlled
+Amoxil	Amoxicillin	Antibiotic (Penicillin)	Non-Controlled
+Zithromax	Azithromycin	Macrolide Antibiotic	Non-Controlled
+Microzide	Hydrochlorothiazide (HCTZ)	Thiazide Diuretic	Non-Controlled
+Norvasc	Amlodipine	Calcium Channel Blocker	Non-Controlled
 Xanax	Alprazolam	Benzodiazepine	4
-Glucophage	Metformin	Antidiabetic	6
-Lipitor	Atorvastatin	Statin	6
-Prilosec	Omeprazole	Proton Pump Inhibitor	6
-Augmentin	Amoxicillin + Clavulanate	Penicillin Antibiotic	6
-Tenormin	Atenolol	Beta Blocker (B1)	6
-Lasix	Furosemide	Diuretic	6
-Lopressor	Metoprolol	Beta Receptor Blocker (B1)	6
-Zoloft	Sertraline	S.S.R.I.	6
+Glucophage	Metformin	Antidiabetic	Non-Controlled
+Lipitor	Atorvastatin	Statin	Non-Controlled
+Prilosec	Omeprazole	Proton Pump Inhibitor	Non-Controlled
+Augmentin	Amoxicillin + Clavulanate	Penicillin Antibiotic	Non-Controlled
+Tenormin	Atenolol	Beta Blocker (B1)	Non-Controlled
+Lasix	Furosemide	Diuretic	Non-Controlled
+Lopressor	Metoprolol	Beta Receptor Blocker (B1)	Non-Controlled
+Zoloft	Sertraline	S.S.R.I.	Non-Controlled
 Ambien	Zolpidem	Sleep Aid	4
 Percocet	Oxycodone + APAP	Pain Relief	2
-Nexium	Esomeprazole	Proton Pump Inhibitor	6
-Plavix	Clopidogrel	Platelet Aggregation Inhibitor	6
-Singulair	Montelukast	Leukotriene Inhibitor	6
-Sterapred	Prednisone	Corticosteroid	6
-Lexapro	Escitalopram	S.S.R.I.	6
-Advil	Ibuprofen	N.S.A.I.D.	6
-Celexa	Citalopram	Anti-Depressant (S.S.R.I.)	6
-ProAir	Albuterol	B2 Receptor Agonist (Lungs)	6
-Prozac	Fluoxetine	S.S.R.I.	6
-Neurontin	Gabapentin	Anti-Convulsant	6
-Coumadin	Warfarin	Blood Thinner	6
-Ultram	Tramadol	Pain Relief	6
+Nexium	Esomeprazole	Proton Pump Inhibitor	Non-Controlled
+Plavix	Clopidogrel	Platelet Aggregation Inhibitor	Non-Controlled
+Singulair	Montelukast	Leukotriene Inhibitor	Non-Controlled
+Sterapred	Prednisone	Corticosteroid	Non-Controlled
+Lexapro	Escitalopram	S.S.R.I.	Non-Controlled
+Advil	Ibuprofen	N.S.A.I.D.	Non-Controlled
+Celexa	Citalopram	Anti-Depressant (S.S.R.I.)	Non-Controlled
+ProAir	Albuterol	B2 Receptor Agonist (Lungs)	Non-Controlled
+Prozac	Fluoxetine	S.S.R.I.	Non-Controlled
+Neurontin	Gabapentin	Anti-Convulsant	Non-Controlled
+Coumadin	Warfarin	Blood Thinner	Non-Controlled
+Ultram	Tramadol	Pain Relief	Non-Controlled
 Klonopin	Clonazepam	Benzodiazepine	4
 Ativan	Lorazepam	Benzodiazepine	4
-Keflex	Cephalexin	Antibiotic (Cephalosporin)	6
-Flexeril	Cyclobenzaprine	Muscle Relaxant	6
-Septra	Sulfamethoxazole + Trimethoprim 	Antibiotic Combination	6
-Cipro	Ciprofloxacin	Quinolone Antibiotic	6
-Flonase	Fluticasone	Inhaled Steroid	6
-Dyrenium	Triamterene	Diuretic	6
-Pravachol	Pravastatin	Cholesterol / Statin	6
-Crestor	Rosuvastatin	Statin	6
-Advair	Fluticasone + Salmeterol	Bronchodilator + Steroid	6
-Desyrel	Trazodone	Anti-Depressant	6
-Darvocet	Propoxyphene + APAP	Pain Relief	4
-Fosamax	Alendronate	Bone Resorption Inhibitor	6
-Allegra	Fexofenadine	Antihistamine (H1)	6
-Mevacor	Lovastatin	Cholesterol / Statin	6
-Coreg	Carvedilol	Beta Receptor Blocker	6
-Paxil	Paroxetine	S.S.R.I.	6
-Mobic	Meloxicam	N.S.A.I.D.	6
+Keflex	Cephalexin	Antibiotic (Cephalosporin)	Non-Controlled
+Flexeril	Cyclobenzaprine	Muscle Relaxant	Non-Controlled
+Septra	Sulfamethoxazole + Trimethoprim 	Antibiotic Combination	Non-Controlled
+Cipro	Ciprofloxacin	Quinolone Antibiotic	Non-Controlled
+Flonase	Fluticasone	Inhaled Steroid	Non-Controlled
+Dyrenium	Triamterene	Diuretic	Non-Controlled
+Pravachol	Pravastatin	Cholesterol / Statin	Non-Controlled
+Crestor	Rosuvastatin	Statin	Non-Controlled
+Advair	Fluticasone + Salmeterol	Bronchodilator + Steroid	Non-Controlled
+Desyrel	Trazodone	Anti-Depressant	Non-Controlled
+Fosamax	Alendronate	Bone Resorption Inhibitor	Non-Controlled
+Allegra	Fexofenadine	Antihistamine (H1)	Non-Controlled
+Mevacor	Lovastatin	Cholesterol / Statin	Non-Controlled
+Coreg	Carvedilol	Beta Receptor Blocker	Non-Controlled
+Paxil	Paroxetine	S.S.R.I.	Non-Controlled
+Mobic	Meloxicam	N.S.A.I.D.	Non-Controlled
 Valium	Diazepam	Benzodiazepine	4
-Diovan	Valsartan	A2RB	6
-Cymbalta	Duloxetine	Anti-Depressant	6
-Effexor	Venlafaxine	Anti-Depressant	6
-Zantac	Ranitidine	Histamine Blocker (H2)	6
-Diflucan	Fluconazole	Anti-Fungal	6
-Aleve	Naproxen	N.S.A.I.D.	6
-Vibramycin	Doxycycline	Antibiotic (Tetracycline)	6
-Klor-Con	Potassium Chloride	Electrolyte	6
-Elavil	Amitriptyline	Anti-Depressant	6
-Prevacid	Lansoprazole	Proton Pump Inhibitor	6
-Actos	Pioglitazone	Anti-Diabetic	6
-Medrol	Methylprednisolone	Steroid Anti-Inflammatory	6
-Zyloprim	Allopurinol	Xanthine Oxidase Inhibitor	6
+Diovan	Valsartan	A2RB	Non-Controlled
+Cymbalta	Duloxetine	Anti-Depressant	Non-Controlled
+Effexor	Venlafaxine	Anti-Depressant	Non-Controlled
+Zantac	Ranitidine	Histamine Blocker (H2)	Non-Controlled
+Diflucan	Fluconazole	Anti-Fungal	Non-Controlled
+Aleve	Naproxen	N.S.A.I.D.	Non-Controlled
+Vibramycin	Doxycycline	Antibiotic (Tetracycline)	Non-Controlled
+Klor-Con	Potassium Chloride	Electrolyte	Non-Controlled
+Elavil	Amitriptyline	Anti-Depressant	Non-Controlled
+Prevacid	Lansoprazole	Proton Pump Inhibitor	Non-Controlled
+Actos	Pioglitazone	Anti-Diabetic	Non-Controlled
+Medrol	Methylprednisolone	Steroid Anti-Inflammatory	Non-Controlled
+Zyloprim	Allopurinol	Xanthine Oxidase Inhibitor	Non-Controlled
 Tylenol 3	Codeine + APAP	Pain Relief	3
-Vasotec	Enalapril	ACE Inhibitor	6
+Vasotec	Enalapril	ACE Inhibitor	Non-Controlled
 Soma	Carisoprodol	Muscle Relaxant	4
-Flomax	Tamsulosin	Prostate Receptor Agonist	6
-Vytorin	Ezetimibe + Simvastatin	Cholesterol Lowering	6
-Seroquel	Quetiapine	Anti-psychotic	6
-Levaquin	Levofloxacin	Antibiotic (Quinolone)	6
-Tricor	Fenofibrate	Cholesterol	6
-Catapres	Clonidine	Alpha Receptor Agonist	6
-Phenergan	Promethazine	Anti-Nausea / Anti-emetic	6
-Yaz	Ethinyl estradiol + Drospirenone	Birth Control	6
-Viagra	Sildenafil	Erectile Dysfunction	6
-Celebrex	Celecoxib	N.S.A.I.D.COX-2 Inhibitor	6
-Proventil	Albuterol	Beta Agonist (B2) (Lungs)	6
+Flomax	Tamsulosin	Prostate Receptor Agonist	Non-Controlled
+Vytorin	Ezetimibe + Simvastatin	Cholesterol Lowering	Non-Controlled
+Seroquel	Quetiapine	Anti-psychotic	Non-Controlled
+Levaquin	Levofloxacin	Antibiotic (Quinolone)	Non-Controlled
+Tricor	Fenofibrate	Cholesterol	Non-Controlled
+Catapres	Clonidine	Alpha Receptor Agonist	Non-Controlled
+Phenergan	Promethazine	Anti-Nausea / Anti-emetic	Non-Controlled
+Yaz	Ethinyl estradiol + Drospirenone	Birth Control	Non-Controlled
+Viagra	Sildenafil	Erectile Dysfunction	Non-Controlled
+Celebrex	Celecoxib	N.S.A.I.D.COX-2 Inhibitor	Non-Controlled
+Proventil	Albuterol	Beta Agonist (B2) (Lungs)	Non-Controlled
 Oxycontin	Oxycodone	Pain Relief	2
-Lantus	Insulin Glargine	Insulin	6
-Nasonex	Mometasone	Corticosteroid	6
-Lyrica	Pregabalin	Anti-convulsant / Neurologic	6
-Amaryl	Glimepiride	Antidiabetic	6
+Lantus	Insulin Glargine	Insulin	Non-Controlled
+Nasonex	Mometasone	Corticosteroid	Non-Controlled
+Lyrica	Pregabalin	Anti-convulsant / Neurologic	Non-Controlled
+Amaryl	Glimepiride	Antidiabetic	Non-Controlled
 Restoril	Temazepam	Sleep Aid	4
-Folvite	Folic Acid	Mineral Supp.	6
-Premarin	Conjugated Estrogen	Estrogen Replacement	6
-Zetia	Ezetimibe	Colesterol	6
-Aldactone	Spironolactone	Diuretic	6
-Lanoxin	Digoxin	Inotrope	6
-Imdur	Isosorbide Mononitrate	Nitrate Vasodilator	6
-Omnicef	Cefdinir	Anti-biotic (Cephalosporin)	6
-Altace	Ramipril	ACE Inhibitor	6
-Nasacort	Triamcinolone	Inhaled Steroid	6
-Ventolin	Albuterol	Bronchodilator	6
-Cozaar	Losartan	A2RB	6
+Folvite	Folic Acid	Mineral Supp.	Non-Controlled
+Premarin	Conjugated Estrogen	Estrogen Replacement	Non-Controlled
+Zetia	Ezetimibe	Colesterol	Non-Controlled
+Aldactone	Spironolactone	Diuretic	Non-Controlled
+Lanoxin	Digoxin	Inotrope	Non-Controlled
+Imdur	Isosorbide Mononitrate	Nitrate Vasodilator	Non-Controlled
+Omnicef	Cefdinir	Anti-biotic (Cephalosporin)	Non-Controlled
+Altace	Ramipril	ACE Inhibitor	Non-Controlled
+Nasacort	Triamcinolone	Inhaled Steroid	Non-Controlled
+Ventolin	Albuterol	Bronchodilator	Non-Controlled
+Cozaar	Losartan	A2RB	Non-Controlled
 Concerta	Methylphenidate	ADHD	2
-DiaBeta	Glyburide	Anti-Diabetic	6
-Valtrex	Valacyclovir	Anti-Viral	6
-Tamiflu	Oseltamivir	Anti-Viral (Flu)	6
-Pen-VK	Penicillin vk	Antibiotic	6
-Spiriva	Tiotropium	Anti-cholinergic 	6
-Lotensin	Benazepril	ACE Inhibitor	6
-Lamictal	Lamotrigine	Anti-convulsant	6
-Benicar HCT	Olmesartan + HCTZ	A2RB + Diuretic	6
-Aricept	Donepezil	Cholinesterase Inhibitor	6
-Risperdal	Risperidone	Anti-Psychotic	6
-Glucotrol	Glipizide	Anti-Diabetic	6
-Adderall	Amphetamine + Dextroamphetamine	Stimulant(ADHD)	2
-Abilify	Aripiprazole	Anti-psychotic	6
-Verelan	Verapamil	Calcium Channel Blocker	6
-Cleocin	Clindamycin 	Anti-Microbial	6
-Flagyl	Metronidazole	Anti-Microbial	6
-Ortho Tri Cyclen	Ethinyl Estradiol + Norgestimate 	Birth Control	6
-Cialis	Tadalafil	Erectile Dysfunction	6
+DiaBeta	Glyburide	Anti-Diabetic	Non-Controlled
+Valtrex	Valacyclovir	Anti-Viral	Non-Controlled
+Tamiflu	Oseltamivir	Anti-Viral (Flu)	Non-Controlled
+Pen-VK	Penicillin vk	Antibiotic	Non-Controlled
+Spiriva	Tiotropium	Anti-cholinergic 	Non-Controlled
+Lotensin	Benazepril	ACE Inhibitor	Non-Controlled
+Lamictal	Lamotrigine	Anti-convulsant	Non-Controlled
+Benicar HCT	Olmesartan + HCTZ	A2RB + Diuretic	Non-Controlled
+Aricept	Donepezil	Cholinesterase Inhibitor	Non-Controlled
+Risperdal	Risperidone	Anti-Psychotic	Non-Controlled
+Glucotrol	Glipizide	Anti-Diabetic	Non-Controlled
+Adderall	Amphetamine + Dextroamphetamine	ADHD	2
+Abilify	Aripiprazole	Anti-psychotic	Non-Controlled
+Verelan	Verapamil	Calcium Channel Blocker	Non-Controlled
+Cleocin	Clindamycin 	Anti-Microbial	Non-Controlled
+Flagyl	Metronidazole	Anti-Microbial	Non-Controlled
+Ortho Tri Cyclen	Ethinyl Estradiol + Norgestimate 	Birth Control	Non-Controlled
+Cialis	Tadalafil	Erectile Dysfunction	Non-Controlled
 Adipex	Phentermine	Appetite Suppressant	4
-Levoxyl	Levothyroxine 	Hormone Replacement (Thyroid)	6
-Vistaril	Hydroxyzine	Anti-Histamine (H1)	6
-Cataflam	Diclofenac	N.S.A.I.D.	6
-Reglan	Metoclopramide	GI Motility Stimulant	6
-Lopid	Gemfibrozil	Cholesterol Lowering	6
-Cardizem	Diltiazem	Calcium Channel Blocker	6
-Depakote	Divalproex 	Anti-Convulsant	6
-Furadantin	Nitrofurantoin	Anti-Microbial	6
-Remeron	Mirtazapine	Anti-Depressant	6
-Xalatan	Latanoprost Opthalmic	Prostaglandin	6
-Januvia	Sitagliptin	Anti-Diabetic	6
-Zovirax	Acyclovir	Anti-Viral	6
-Cardura	Doxazosin	Alpha Receptor Agonist	6
+Levoxyl	Levothyroxine 	Hormone Replacement (Thyroid)	Non-Controlled
+Vistaril	Hydroxyzine	Anti-Histamine (H1)	Non-Controlled
+Cataflam	Diclofenac	N.S.A.I.D.	Non-Controlled
+Reglan	Metoclopramide	GI Motility Stimulant	Non-Controlled
+Lopid	Gemfibrozil	Cholesterol Lowering	Non-Controlled
+Cardizem	Diltiazem	Calcium Channel Blocker	Non-Controlled
+Depakote	Divalproex 	Anti-Convulsant	Non-Controlled
+Furadantin	Nitrofurantoin	Anti-Microbial	Non-Controlled
+Remeron	Mirtazapine	Anti-Depressant	Non-Controlled
+Xalatan	Latanoprost Opthalmic	Prostaglandin	Non-Controlled
+Januvia	Sitagliptin	Anti-Diabetic	Non-Controlled
+Zovirax	Acyclovir	Anti-Viral	Non-Controlled
+Cardura	Doxazosin	Alpha Receptor Agonist	Non-Controlled
 Lunesta	Eszopiclone	Sleep Aid	4
-Niaspan	Niacin	Cholesterol	6
-Inderal	Propranolol	Beta Receptor Blocker (B1)	6
-Hyzaar	Losartan + HCTZ	A2RB + Diuretic	6
+Niaspan	Niacin	Cholesterol	Non-Controlled
+Inderal	Propranolol	Beta Receptor Blocker (B1)	Non-Controlled
+Hyzaar	Losartan + HCTZ	A2RB + Diuretic	Non-Controlled
 Suboxone	Buprenorphine	Opioid Recovery	3
-Budeprion	Bupropion	Anti-Depressant	6
-Robitussin	Guaifenesin	Cold Syrup	6
-Topamax	Topiramate	Anti-convulsant	6
-BuSpar	Buspirone	Anxiolytic / Hypnotic	6
-Anti-Vert	Meclizine	Anti-Vertigo	6
-Detrol	Tolterodine	Urinary Anti-spasmotic	6
+Budeprion	Bupropion	Anti-Depressant	Non-Controlled
+Robitussin	Guaifenesin	Cold Syrup	Non-Controlled
+Topamax	Topiramate	Anti-convulsant	Non-Controlled
+BuSpar	Buspirone	Anxiolytic / Hypnotic	Non-Controlled
+Anti-Vert	Meclizine	Anti-Vertigo	Non-Controlled
+Detrol	Tolterodine	Urinary Anti-spasmotic	Non-Controlled
 Vyvanse	Lisdexamfetamine	ADHD	2
-Accupril	Quinapril	ACE Inhibitor	6
-Aciphex	Rabeprazole	Proton Pump Inhibitor	6
-Bactroban	Mupirocin	Topical Anti-Bacterial	6
-Rheumatrex	Methotrexate	Anti-Rheumatic	6
-Glycolax	Polyethylene Glycol	Laxative	6
+Accupril	Quinapril	ACE Inhibitor	Non-Controlled
+Aciphex	Rabeprazole	Proton Pump Inhibitor	Non-Controlled
+Bactroban	Mupirocin	Topical Anti-Bacterial	Non-Controlled
+Rheumatrex	Methotrexate	Anti-Rheumatic	Non-Controlled
+Glycolax	Polyethylene Glycol	Laxative	Non-Controlled
 Duragesic	Fentanyl Transdermal Patch	Pain Relief	2
-Tessalon Perles	Benzonatate	Cough Supressant	6
-Avapro	Irbesartan	A2RB	6
-Combivent	Albuterol + Ipratropium Inhaler	Bronchodilator	6
-Boniva	Ibandronate	Biphosphonate (bone loss)	6
+Tessalon Perles	Benzonatate	Cough Supressant	Non-Controlled
+Avapro	Irbesartan	A2RB	Non-Controlled
+Combivent	Albuterol + Ipratropium Inhaler	Bronchodilator	Non-Controlled
+Boniva	Ibandronate	Biphosphonate (bone loss)	Non-Controlled
 Methadose	Methadone	Opioid Depen	2
-Lotrisone	Clotrimazole + Betamethasone	Anti-Fungal + Steroid	6
-Imitrex	Sumatriptan	Seratonin Agonist	6
-Procardia	Nifedipine	Calcium Channel Blocker	6
-Pepcid	Famotidine	Histamine Blocker (H2)	6
-Fioricet	Butalbital/APAP/Caff	Headache	6
-Proscar	Finasteride	Enzyme Inhibitor(Prostate)	6
-Feosol	Ferrous Sulfate	Iron Deficiency	6
-Hytrin	Terazosin	Alpha Receptor Agonist	6
-Lovaza	Omega-3/Fish Oil	Cholestorol	6
-Zanaflex	Tizanidine	Mult. Sclerosis	6
-Actonel	Risedronate	Bone Resorption Inhibitor	6
-Namenda	Memantine	Anti-Alzheimer	6
-NovoLog	Insulin Aspart	Insulin/Type I Diabetes	6
-Robaxin	Methocarbamol	Muscle Relaxer	6
-Temovate	Clobetasol	Corticosteroid	6
-Zebeta	Bisoprolol	Beta Blocker	6
-NitroStat	Nitroglycerine	Vasodilator	6
-Chantix	Varenicline	Smoking Cessation	6
-Evista	Raloxifene	Estrogen Modulator	6
-Peridex	Chlorhexidine Gluconate	Anti-Microbial Oral Rinse	6
-Zyprexa	Olanzapine	Anti-Psychotic	6
-Zofran	Ondansetron	Anti-nausea	6
-Requip	Ropinirole	Parkinsons	6
-Bentyl	Dicyclomine	Anti-Spasmotic	6
-Humalog	Insulin Lispro	Insulin/Type I Diabetes	6
-Relafen	Nabumetone	N.S.A.I.D.	6
-Avalide	Irbesartan + HCTZ	A2RB + Diuretic	6
-Biaxin	Clarithromycin	Macrolide Antibiotic	6
-Lidoderm	Lidocaine Patch	Topical Anesthetic	6
-Avodart	Dutasteride	Prostate	6
-Dilantin	Phenytoin	Anti-Convulsant	6
-Colchicine	Colchicine	Anti-Gout	6
-Vigamox	Moxifloxacin	Antibiotic(Quinolone)	6
-Lioresal	Baclofen	Muscle Relaxer	6
-Plaquenil	Hydroxychloroquine	Arthritis / Lupus	6
+Lotrisone	Clotrimazole + Betamethasone	Anti-Fungal + Steroid	Non-Controlled
+Imitrex	Sumatriptan	Seratonin Agonist	Non-Controlled
+Procardia	Nifedipine	Calcium Channel Blocker	Non-Controlled
+Pepcid	Famotidine	Histamine Blocker (H2)	Non-Controlled
+Fioricet	Butalbital/APAP/Caff	Headache	Non-Controlled
+Proscar	Finasteride	Enzyme Inhibitor(Prostate)	Non-Controlled
+Feosol	Ferrous Sulfate	Iron Deficiency	Non-Controlled
+Hytrin	Terazosin	Alpha Receptor Agonist	Non-Controlled
+Lovaza	Omega-3/Fish Oil	Cholestorol	Non-Controlled
+Zanaflex	Tizanidine	Mult. Sclerosis	Non-Controlled
+Actonel	Risedronate	Bone Resorption Inhibitor	Non-Controlled
+Namenda	Memantine	Anti-Alzheimer	Non-Controlled
+NovoLog	Insulin Aspart	Insulin/Type I Diabetes	Non-Controlled
+Robaxin	Methocarbamol	Muscle Relaxer	Non-Controlled
+Temovate	Clobetasol	Corticosteroid	Non-Controlled
+Zebeta	Bisoprolol	Beta Blocker	Non-Controlled
+NitroStat	Nitroglycerine	Vasodilator	Non-Controlled
+Chantix	Varenicline	Smoking Cessation	Non-Controlled
+Evista	Raloxifene	Estrogen Modulator	Non-Controlled
+Peridex	Chlorhexidine Gluconate	Anti-Microbial Oral Rinse	Non-Controlled
+Zyprexa	Olanzapine	Anti-Psychotic	Non-Controlled
+Zofran	Ondansetron	Anti-nausea	Non-Controlled
+Requip	Ropinirole	Parkinsons	Non-Controlled
+Bentyl	Dicyclomine	Anti-Spasmotic	Non-Controlled
+Humalog	Insulin Lispro	Insulin/Type I Diabetes	Non-Controlled
+Relafen	Nabumetone	N.S.A.I.D.	Non-Controlled
+Avalide	Irbesartan + HCTZ	A2RB + Diuretic	Non-Controlled
+Biaxin	Clarithromycin	Macrolide Antibiotic	Non-Controlled
+Lidoderm	Lidocaine Patch	Topical Anesthetic	Non-Controlled
+Avodart	Dutasteride	Prostate	Non-Controlled
+Dilantin	Phenytoin	Anti-Convulsant	Non-Controlled
+Colchicine	Colchicine	Anti-Gout	Non-Controlled
+Vigamox	Moxifloxacin	Antibiotic(Quinolone)	Non-Controlled
+Lioresal	Baclofen	Muscle Relaxer	Non-Controlled
+Plaquenil	Hydroxychloroquine	Arthritis / Lupus	Non-Controlled
 Tussionex	Chlorpheniramine + Hydrocodone 	Narc+Anti-Hist	3
-Pyridium	Phenazopyridine	Analgesic (urinary)	6
-Strattera	Atomoxetine	Norephinephrine Reuptake Inhibitor (ADHD)	6
-Levitra	Vardenafil	Erectile Dysfunction	6
-Nizoral	Ketoconazole	Anti-fungal	6
-Pamelor	Nortriptyline	Anti-Depressant	6
-Benztropine	Benzatropine	Parkinsons	6
-Minocin	Minocycline	Anti-biotic	6
-Avelox	Moxifloxacin	Antibiotic (Quinolone)	6
-Protonix	Pantoprazole	Proton Pump Inhibitor	6
-Ceftin	Cefuroxime Axetil	Anti-biotic	6
-Ditropan	Oxybutynin	Overactive Bladder	6
-Keppra	Levetiracetam	Anti-convulsant	6
-Apresoline	Hydralazine	Anti-hypertensive	6
+Pyridium	Phenazopyridine	Analgesic (urinary)	Non-Controlled
+Strattera	Atomoxetine	Norephinephrine ADHD	Non-Controlled
+Levitra	Vardenafil	Erectile Dysfunction	Non-Controlled
+Nizoral	Ketoconazole	Anti-fungal	Non-Controlled
+Pamelor	Nortriptyline	Anti-Depressant	Non-Controlled
+Benztropine	Benzatropine	Parkinsons	Non-Controlled
+Minocin	Minocycline	Anti-biotic	Non-Controlled
+Avelox	Moxifloxacin	Antibiotic (Quinolone)	Non-Controlled
+Protonix	Pantoprazole	Proton Pump Inhibitor	Non-Controlled
+Ceftin	Cefuroxime Axetil	Anti-biotic	Non-Controlled
+Ditropan	Oxybutynin	Overactive Bladder	Non-Controlled
+Keppra	Levetiracetam	Anti-convulsant	Non-Controlled
+Apresoline	Hydralazine	Anti-hypertensive	Non-Controlled

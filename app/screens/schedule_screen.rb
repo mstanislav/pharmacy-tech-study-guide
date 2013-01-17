@@ -4,15 +4,18 @@ class ScheduleScreen < ProMotion::SectionedTableScreen
   def table_data
     data = Array.new
 
-    ['2','3','4','6'].each do |value|
-      data << { title: "Schedule #{value}", cells: cells("#{value}") }
-    end
+    data << { title: "Schedule 1", cells: cells("1") }
+    data << { title: "Schedule 2", cells: cells("2") }
+    data << { title: "Schedule 3", cells: cells("3") }
+    data << { title: "Schedule 4", cells: cells("4") }
+    data << { title: "Schedule 5", cells: cells("5") }
+    data << { title: "Non-Controlled", cells: cells("Non-Controlled") }
 
     return data
   end
 
   def table_data_index
-    return ['2','3','4','6']
+    return ['1','2','3','4','5','NC']
   end
 
   def cells(value)
