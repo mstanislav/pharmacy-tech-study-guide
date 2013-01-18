@@ -1,1 +1,1 @@
-gem "ProMotion", :git => "git@github.com:clearsightstudio/ProMotion.git"
+gem "ProMotion", :git => "git@github.com:mstanislav/ProMotion.git"

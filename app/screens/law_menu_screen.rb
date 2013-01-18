@@ -11,7 +11,7 @@ class LawMenuScreen < ProMotion::GroupedTableScreen
 
     File.read(File.join(NSBundle.mainBundle.resourcePath, 'law.txt')).split("\n").each do |law| 
       type, title, content = law.split("\t")                                                                                   
-      data[type] << { title: title, action: :law, font_resize: true, arguments: { type: title } }
+      data[type] << { title: title, action: :law, fontResize: true, arguments: { type: title } }
     end                                                                                                                  
 
     return [ { title: "Acts", cells: data["Acts"] },

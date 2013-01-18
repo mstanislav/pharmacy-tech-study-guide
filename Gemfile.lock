@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:clearsightstudio/ProMotion.git
+  remote: git@github.com:mstanislav/ProMotion.git
   revision: 60d841b81f2e5de877e5c100a3a58d0658cc68ec
   specs:
     ProMotion (0.3.0)
