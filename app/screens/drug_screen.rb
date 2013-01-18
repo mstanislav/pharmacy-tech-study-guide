@@ -7,8 +7,8 @@ class DrugScreen < ProMotion::GroupedTableScreen
   end
 
  def table_data
-    [ { title: "Brand Name", cells: [ { title: brand, font_resize: true } ] },
-      { title: "Generic Name", cells: [ { title: generic, font_resize: true } ] }, 
+    [ { title: "Brand Name", cells: [ { title: brand, fontResize: true } ] },
+      { title: "Generic Name", cells: [ { title: generic, fontResize: true } ] }, 
       { title: "Purpose", cells: [ { title: purpose } ] },
       { title: "Schedule", cells: [ { title: schedule } ] } ]
   end

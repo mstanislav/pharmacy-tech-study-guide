@@ -20,7 +20,7 @@ class BrandsScreen < ProMotion::SectionedTableScreen
 
     File.read(File.join(NSBundle.mainBundle.resourcePath, 'drugs.txt')).split("\n").sort.each do |drug|
       brand, generic, purpose, schedule = drug.split("\t")
-      drugs << {title: brand, font_resize: true, action: :show_drug, arguments: { brand: brand, generic: generic, purpose: purpose, schedule: schedule } } if brand[0] == letter
+      drugs << {title: brand, fontResize: true, action: :show_drug, arguments: { brand: brand, generic: generic, purpose: purpose, schedule: schedule } } if brand[0] == letter
     end
 
     return drugs

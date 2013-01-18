@@ -23,7 +23,7 @@ class ScheduleScreen < ProMotion::SectionedTableScreen
 
     File.read(File.join(NSBundle.mainBundle.resourcePath, 'drugs.txt')).split("\n").sort.each do |drug|
       brand, generic, purpose, schedule = drug.split("\t")
-      drugs << {title: brand, subtitle: generic, font_resize: true, cellStyle: UITableViewCellStyleSubtitle, action: :show_drug,
+      drugs << {title: brand, subtitle: generic, fontResize: true, cellStyle: UITableViewCellStyleSubtitle, action: :show_drug,
                 arguments: { brand: brand, generic: generic, purpose: purpose, schedule: schedule } } if schedule == value
     end
 
