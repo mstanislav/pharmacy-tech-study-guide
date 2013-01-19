@@ -11,7 +11,6 @@ class LawScreen < ProMotion::Screen
     title = UILabel.new                                                                                        
     title.font = UIFont.systemFontOfSize(22)                                                                   
     title.backgroundColor = UIColor.clearColor                                                                 
-    title.textAlignment = UITextAlignmentCenter                                                                
     title.lineBreakMode = UILineBreakModeWordWrap                                                              
     title.numberOfLines = 0 
     title.frame = [[5, 5], [300, 60]]                                               

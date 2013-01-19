@@ -98,7 +98,7 @@ Amaryl	Glimepiride	Anti-Diabetic	Non-Controlled
 Restoril	Temazepam	Sleep Aid	4
 Folvite	Folic Acid	Mineral Supplement	Non-Controlled
 Premarin	Conjugated Estrogen	Hormone Replacement	Non-Controlled
-Zetia	Ezetimibe	Colesterol	Non-Controlled
+Zetia	Ezetimibe	Anti-Cholesterol	Non-Controlled
 Aldactone	Spironolactone	Diuretic	Non-Controlled
 Lanoxin	Digoxin	Inotrope	Non-Controlled
 Imdur	Isosorbide Mononitrate	Nitrate Vasodilator	Non-Controlled
