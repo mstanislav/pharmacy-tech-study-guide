@@ -3,7 +3,6 @@ class LawScreen < ProMotion::Screen
   title "Law"
 
   def on_load                                                                                                            
-    scroll = UIScrollView.new
     view.backgroundColor = UIColor.whiteColor                                                                            
 
     get_content(value)
@@ -16,17 +15,25 @@ class LawScreen < ProMotion::Screen
     title.frame = [[5, 5], [300, 60]]                                               
     title.text = @title
     title.sizeToFit
-    view.addSubview title                                                                                      
+
+    view.addSubview title
+
+    scroll = UIScrollView.new
+    scroll.frame = [[5, 80], [300, 400]]
                                                                                                                          
     content = UILabel.new                                                                                          
     content.font = UIFont.systemFontOfSize(14)                                                                     
     content.backgroundColor = UIColor.clearColor                                                                   
     content.lineBreakMode = UILineBreakModeWordWrap                                                             
     content.numberOfLines = 0 
-    content.frame = [[5, 80], [300, 400]]
+    content.frame = [[0, 0], [300, 100]]
     content.text = @string
     content.sizeToFit
-    view.addSubview content                                                                                        
+
+    scroll.contentSize = CGSizeMake(scroll.contentSize.width, content.frame.size.height)
+    scroll.addSubview content
+
+    view.addSubview scroll                                                                                      
   end                                      
 
 private
