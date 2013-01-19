@@ -16,9 +16,8 @@ class LawScreen < ProMotion::Screen
     title.lineBreakMode = UILineBreakModeWordWrap                                                              
     title.textAlignment = NSTextAlignmentCenter
     title.numberOfLines = 0 
-    title.frame = [[0, 0], [315, 60]]                                               
+    title.frame = [[0, 0], [310, 60]]                                               
     title.text = @title
-    title.sizeToFit
 
     scroll.addSubview title
                                                                                                                          
@@ -27,7 +26,7 @@ class LawScreen < ProMotion::Screen
     content.backgroundColor = UIColor.clearColor                                                                   
     content.lineBreakMode = UILineBreakModeWordWrap                                                             
     content.numberOfLines = 0 
-    content.frame = [[0, 65], [315, 100]]
+    content.frame = [[0, 65], [310, 100]]
     content.text = @string
     content.sizeToFit
 
