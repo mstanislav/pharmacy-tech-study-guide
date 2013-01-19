@@ -5,6 +5,9 @@ class LawScreen < ProMotion::Screen
   def on_load                                                                                                            
     view.backgroundColor = UIColor.whiteColor                                                                            
 
+    scroll = UIScrollView.new
+    scroll.frame = [[5, 5], [315, 400]]
+
     get_content(value)
 
     title = UILabel.new                                                                                        
@@ -12,25 +15,22 @@ class LawScreen < ProMotion::Screen
     title.backgroundColor = UIColor.clearColor                                                                 
     title.lineBreakMode = UILineBreakModeWordWrap                                                              
     title.numberOfLines = 0 
-    title.frame = [[5, 5], [300, 60]]                                               
+    title.frame = [[0, 0], [300, 60]]                                               
     title.text = @title
     title.sizeToFit
 
-    view.addSubview title
-
-    scroll = UIScrollView.new
-    scroll.frame = [[5, 80], [300, 400]]
+    scroll.addSubview title
                                                                                                                          
     content = UILabel.new                                                                                          
     content.font = UIFont.systemFontOfSize(14)                                                                     
     content.backgroundColor = UIColor.clearColor                                                                   
     content.lineBreakMode = UILineBreakModeWordWrap                                                             
     content.numberOfLines = 0 
-    content.frame = [[0, 0], [300, 100]]
+    content.frame = [[0, 65], [300, 100]]
     content.text = @string
     content.sizeToFit
 
-    scroll.contentSize = CGSizeMake(scroll.contentSize.width, content.frame.size.height)
+    scroll.contentSize = CGSizeMake(scroll.contentSize.width, title.frame.size.height + content.frame.size.height)
     scroll.addSubview content
 
     view.addSubview scroll                                                                                      
