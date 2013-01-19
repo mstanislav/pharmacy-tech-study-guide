@@ -26,9 +26,9 @@ Glucophage	Metformin	Anti-Diabetic	Non-Controlled
 Lipitor	Atorvastatin	Statin	Non-Controlled
 Prilosec	Omeprazole	Proton Pump Inhibitor	Non-Controlled
 Augmentin	Amoxicillin + Clavulanate	Penicillin Anti-Microbial	Non-Controlled
-Tenormin	Atenolol	Beta Blocker (B1)	Non-Controlled
+Tenormin	Atenolol	Beta Blocker	Non-Controlled
 Lasix	Furosemide	Diuretic	Non-Controlled
-Lopressor	Metoprolol	Beta Receptor Blocker (B1)	Non-Controlled
+Lopressor	Metoprolol	Beta Blocker	Non-Controlled
 Zoloft	Sertraline	S.S.R.I.	Non-Controlled
 Ambien	Zolpidem	Sleep Aid	4
 Percocet	Oxycodone + APAP	Pain Relief	2
@@ -39,10 +39,10 @@ Sterapred	Prednisone	Corticosteroid	Non-Controlled
 Lexapro	Escitalopram	S.S.R.I.	Non-Controlled
 Advil	Ibuprofen	N.S.A.I.D.	Non-Controlled
 Celexa	Citalopram	Anti-Depressant	Non-Controlled
-ProAir	Albuterol	B2 Receptor Agonist (Lungs)	Non-Controlled
+ProAir	Albuterol	Respiratory	Non-Controlled
 Prozac	Fluoxetine	S.S.R.I.	Non-Controlled
 Neurontin	Gabapentin	Anti-Convulsant	Non-Controlled
-Coumadin	Warfarin	Blood Thinner	Non-Controlled
+Coumadin	Warfarin	Anti-Coagulant	Non-Controlled
 Ultram	Tramadol	Pain Relief	Non-Controlled
 Klonopin	Clonazepam	Benzodiazepine	4
 Ativan	Lorazepam	Benzodiazepine	4
@@ -54,12 +54,12 @@ Flonase	Fluticasone	Inhaled Steroid	Non-Controlled
 Dyrenium	Triamterene	Diuretic	Non-Controlled
 Pravachol	Pravastatin	Cholesterol / Statin	Non-Controlled
 Crestor	Rosuvastatin	Statin	Non-Controlled
-Advair	Fluticasone + Salmeterol	Bronchodilator + Steroid	Non-Controlled
+Advair	Fluticasone + Salmeterol	Respiratory	Non-Controlled
 Desyrel	Trazodone	Anti-Depressant	Non-Controlled
-Fosamax	Alendronate	Bone Resorption Inhibitor	Non-Controlled
+Fosamax	Alendronate	Biphosphonate	Non-Controlled
 Allegra	Fexofenadine	Antihistamine	Non-Controlled
 Mevacor	Lovastatin	Cholesterol / Statin	Non-Controlled
-Coreg	Carvedilol	Beta Receptor Blocker	Non-Controlled
+Coreg	Carvedilol	Beta Blocker	Non-Controlled
 Paxil	Paroxetine	S.S.R.I.	Non-Controlled
 Mobic	Meloxicam	N.S.A.I.D.	Non-Controlled
 Valium	Diazepam	Benzodiazepine	4
@@ -86,10 +86,10 @@ Levaquin	Levofloxacin	Anti-Microbial	Non-Controlled
 Tricor	Fenofibrate	Cholesterol	Non-Controlled
 Catapres	Clonidine	Alpha Receptor Agonist	Non-Controlled
 Phenergan	Promethazine	Anti-Nausea / Anti-Emetic	Non-Controlled
-Yaz	Ethinyl estradiol + Drospirenone	Birth Control	Non-Controlled
+Yaz	Ethinyl estradiol + Drospirenone	Contraceptive	Non-Controlled
 Viagra	Sildenafil	Erectile Dysfunction	Non-Controlled
 Celebrex	Celecoxib	N.S.A.I.D.COX-2 Inhibitor	Non-Controlled
-Proventil	Albuterol	Beta Agonist (B2) (Lungs)	Non-Controlled
+Proventil	Albuterol	Respiratory	Non-Controlled
 Oxycontin	Oxycodone	Pain Relief	2
 Lantus	Insulin Glargine	Insulin	Non-Controlled
 Nasonex	Mometasone	Corticosteroid	Non-Controlled
@@ -105,7 +105,7 @@ Imdur	Isosorbide Mononitrate	Nitrate Vasodilator	Non-Controlled
 Omnicef	Cefdinir	Anti-Microbial	Non-Controlled
 Altace	Ramipril	ACE Inhibitor	Non-Controlled
 Nasacort	Triamcinolone	Inhaled Steroid	Non-Controlled
-Ventolin	Albuterol	Bronchodilator	Non-Controlled
+Ventolin	Albuterol	Respiratory	Non-Controlled
 Cozaar	Losartan	A2RB	Non-Controlled
 Concerta	Methylphenidate	ADHD	2
 DiaBeta	Glyburide	Anti-Diabetic	Non-Controlled
@@ -124,7 +124,7 @@ Abilify	Aripiprazole	Anti-Psychotic	Non-Controlled
 Verelan	Verapamil	Calcium Channel Blocker	Non-Controlled
 Cleocin	Clindamycin 	Anti-Microbial	Non-Controlled
 Flagyl	Metronidazole	Anti-Microbial	Non-Controlled
-Ortho Tri Cyclen	Ethinyl Estradiol + Norgestimate 	Birth Control	Non-Controlled
+Ortho Tri Cyclen	Ethinyl Estradiol + Norgestimate 	Contraceptive	Non-Controlled
 Cialis	Tadalafil	Erectile Dysfunction	Non-Controlled
 Adipex	Phentermine	Appetite Suppressant	4
 Levoxyl	Levothyroxine 	Hormone Replacement (Thyroid)	Non-Controlled
@@ -142,7 +142,7 @@ Zovirax	Acyclovir	Anti-Viral	Non-Controlled
 Cardura	Doxazosin	Alpha Receptor Agonist	Non-Controlled
 Lunesta	Eszopiclone	Sleep Aid	4
 Niaspan	Niacin	Cholesterol	Non-Controlled
-Inderal	Propranolol	Beta Receptor Blocker (B1)	Non-Controlled
+Inderal	Propranolol	Beta Blocker	Non-Controlled
 Hyzaar	Losartan + HCTZ	A2RB + Diuretic	Non-Controlled
 Suboxone	Buprenorphine	Opioid Recovery	3
 Budeprion	Bupropion	Anti-Depressant	Non-Controlled
@@ -160,8 +160,8 @@ Glycolax	Polyethylene Glycol	Laxative	Non-Controlled
 Duragesic	Fentanyl Transdermal Patch	Pain Relief	2
 Tessalon Perles	Benzonatate	Cough Supressant	Non-Controlled
 Avapro	Irbesartan	A2RB	Non-Controlled
-Combivent	Albuterol + Ipratropium Inhaler	Bronchodilator	Non-Controlled
-Boniva	Ibandronate	Biphosphonate (bone loss)	Non-Controlled
+Combivent	Albuterol + Ipratropium Inhaler	Respiratory	Non-Controlled
+Boniva	Ibandronate	Biphosphonate	Non-Controlled
 Methadose	Methadone	Opioid Depen	2
 Lotrisone	Clotrimazole + Betamethasone	Anti-Fungal + Steroid	Non-Controlled
 Imitrex	Sumatriptan	Seratonin Agonist	Non-Controlled
@@ -173,7 +173,7 @@ Feosol	Ferrous Sulfate	Iron Deficiency	Non-Controlled
 Hytrin	Terazosin	Alpha Receptor Agonist	Non-Controlled
 Lovaza	Omega-3/Fish Oil	Cholestorol	Non-Controlled
 Zanaflex	Tizanidine	Mult. Sclerosis	Non-Controlled
-Actonel	Risedronate	Bone Resorption Inhibitor	Non-Controlled
+Actonel	Risedronate	Biphosphonate	Non-Controlled
 Namenda	Memantine	Anti-Alzheimer	Non-Controlled
 NovoLog	Insulin Aspart	Insulin/Type I Diabetes	Non-Controlled
 Robaxin	Methocarbamol	Muscle Relaxer	Non-Controlled
@@ -197,7 +197,7 @@ Dilantin	Phenytoin	Anti-Convulsant	Non-Controlled
 Colchicine	Colchicine	Anti-Gout	Non-Controlled
 Vigamox	Moxifloxacin	Anti-Microbial	Non-Controlled
 Lioresal	Baclofen	Muscle Relaxer	Non-Controlled
-Plaquenil	Hydroxychloroquine	Arthritis / Lupus	Non-Controlled
+Plaquenil	Hydroxychloroquine	Anti-Rheumatic	Non-Controlled
 Tussionex	Chlorpheniramine + Hydrocodone 	Narc+Anti-Hist	3
 Pyridium	Phenazopyridine	Analgesic (urinary)	Non-Controlled
 Strattera	Atomoxetine	Norephinephrine ADHD	Non-Controlled
