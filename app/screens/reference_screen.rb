@@ -5,7 +5,8 @@ class ReferenceScreen < ProMotion::GroupedTableScreen
     @reference  ||= ReferenceScreen.new(nav_bar: true)
     @quiz       ||= QuizMenuScreen.new(nav_bar: true)
     @law        ||= LawMenuScreen.new(nav_bar: true)
-    @tab_bar    ||= open_tab_bar @reference, @quiz, @law
+    @info       ||= InfoScreen.new(nav_bar: true)
+    @tab_bar    ||= open_tab_bar @reference, @quiz, @law, @info
   end
 
   def on_opened
