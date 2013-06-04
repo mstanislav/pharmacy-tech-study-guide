@@ -28,7 +28,7 @@ class InfoScreen < ProMotion::Screen
     content.text =  "The contents and use of this app are meant for informational and entertainment purposes only. "
     content.text += "No guarantee regarding the accuracy of the included contents is express or implied.\n\n" 
     content.text += "Usage of this app for medical reference is not recommended and may be dangerous.\n\n"
-    content.text += "Using this app does not guarantee success when taking your PTCB exam.\n\n"
+    content.text += "Using this app does not guarantee success when taking any pharmacy technician exam.\n\n"
     content.text += "All rights to the names of drugs and terms found within this app are those of their respective owners.\n\n"
     content.text += "That all being said, we hope that you find this app useful and wish you the best of luck on your future exam!\n\n"
     content.sizeToFit

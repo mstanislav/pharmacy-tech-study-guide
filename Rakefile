@@ -1,12 +1,13 @@
 $:.unshift("/Library/RubyMotion/lib")
-require 'motion/project'
+require 'motion/project/template/ios'
 require 'rubygems'
 require 'bundler'
 Bundler.require
 
 Motion::Project::App.setup do |app|
   app.name = "PTCB Study"
-  app.version = "1.0"
+  app.version = "1.1"
+  app.short_version = "1.1"
   app.deployment_target = '6.0'
   app.identifier = "com.pardalislabs.ptcbstudy"
   app.codesign_certificate = "iPhone Distribution: Pardalis Labs, LLC"

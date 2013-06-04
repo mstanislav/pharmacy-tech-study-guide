@@ -1,4 +1,4 @@
-ptcb-study
+pharmacy-tech-study-guide
 ==========
 
-RubyMotion PTCB Study App
+RubyMotion Phamracy Technician Study Guide
