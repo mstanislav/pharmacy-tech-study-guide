@@ -18,4 +18,5 @@ Motion::Project::App.setup do |app|
   app.interface_orientations = [:portrait]
   app.icons = %w{Icon-20.png Icon-29.png Icon-57.png Icon-58.png Icon-114.png Icon-512.png Icon-1024.png}
   app.detect_dependencies = false
+  app.info_plist['UILaunchImageFile'] = 'launch'
 end
